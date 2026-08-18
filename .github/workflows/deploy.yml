@@ -1,0 +1,38 @@
+name: Deploy Worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Cloudflare environment
+        required: true
+        type: choice
+        options: [staging, production]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm types && pnpm check && pnpm test
+      - name: Apply D1 migrations
+        working-directory: apps/web
+        run: pnpm exec wrangler d1 migrations apply DB --remote --env "${{ inputs.environment }}"
+      - name: Build
+        working-directory: apps/web
+        run: pnpm exec vite build --mode "${{ inputs.environment }}"
+      - name: Deploy
+        working-directory: apps/web
+        run: pnpm exec wrangler deploy --env "${{ inputs.environment }}"
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+

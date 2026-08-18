@@ -1,0 +1,4718 @@
+{
+  "knowledge": [
+    {
+      "id": "KP-001",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "项目",
+      "titleEn": "Project",
+      "examFocus": "在独特情境中创造价值的临时性倡议；有完成状态",
+      "commonTrap": "有期限或目标不自动等于项目",
+      "contentCoverage": "teachable"
+    },
+    {
+      "id": "KP-002",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "运营",
+      "titleEn": "Operations",
+      "examFocus": "持续、重复地维持业务",
+      "commonTrap": "限时专项运营仍可能是运营",
+      "contentCoverage": "teachable"
+    },
+    {
+      "id": "KP-003",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "项目群",
+      "titleEn": "Program",
+      "examFocus": "协调管理相关项目以获得单独管理无法得到的收益",
+      "commonTrap": "不是大型项目的同义词",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-004",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "项目组合",
+      "titleEn": "Portfolio",
+      "examFocus": "为战略目标集中管理项目、项目群和运营",
+      "commonTrap": "组成部分不必相互依赖",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-005",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "价值",
+      "titleEn": "Value",
+      "examFocus": "权衡收益、成本、风险和利益相关方感知",
+      "commonTrap": "不等同于只按时按预算",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-006",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "成果",
+      "titleEn": "Outcome",
+      "examFocus": "交付物被使用后产生的变化或结果",
+      "commonTrap": "Deliverable 不等于 Outcome",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-007",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "收益",
+      "titleEn": "Benefit",
+      "examFocus": "利益相关方获得的可衡量改善",
+      "commonTrap": "项目收尾不代表收益已经全部实现",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-008",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "预测型",
+      "titleEn": "Predictive",
+      "examFocus": "需求较稳定，较多前期计划和基准控制",
+      "commonTrap": "不能把正式流程理解为拒绝一切变化",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-009",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "敏捷/自适应",
+      "titleEn": "Adaptive / Agile",
+      "examFocus": "短周期、反馈驱动、逐步发现与交付",
+      "commonTrap": "敏捷不是无计划",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-010",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "混合型",
+      "titleEn": "Hybrid",
+      "examFocus": "按工作性质组合预测型与敏捷做法",
+      "commonTrap": "不是简单各做一半",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-011",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "裁剪",
+      "titleEn": "Tailoring",
+      "examFocus": "依据情境选择适用方法、工件和治理强度",
+      "commonTrap": "不能以裁剪为由绕过合规",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-012",
+      "domain": "Foundation",
+      "task": "F",
+      "chapterId": "01",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "先做什么题",
+      "titleEn": "First / Next Question",
+      "examFocus": "先识别场景和缺失步骤，再选择行动",
+      "commonTrap": "最终方案未必是第一步",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-013",
+      "domain": "People",
+      "task": "P1",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "共同愿景",
+      "titleEn": "Common Vision",
+      "examFocus": "让关键干系人理解并持续校准共同方向",
+      "commonTrap": "愿景需更新，不是启动会后固定不变",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-014",
+      "domain": "People",
+      "task": "P1",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "愿景误解根因",
+      "titleEn": "Root Cause of Vision Misalignment",
+      "examFocus": "拆解误解来源后再沟通",
+      "commonTrap": "不要只重复口号",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-015",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "冲突来源",
+      "titleEn": "Conflict Sources",
+      "examFocus": "识别资源、优先级、技术、沟通、文化等根因",
+      "commonTrap": "把人贴标签不是找根因",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-016",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "合作/解决问题",
+      "titleEn": "Collaborate / Problem Solve",
+      "examFocus": "寻求双赢和根因解决，通常是长期最佳",
+      "commonTrap": "紧急情形未必有时间完整协作",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-017",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "妥协/调和",
+      "titleEn": "Compromise / Reconcile",
+      "examFocus": "双方各让一步形成可接受方案",
+      "commonTrap": "不是双赢最优",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-018",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "缓和/包容",
+      "titleEn": "Smooth / Accommodate",
+      "examFocus": "强调共同点、暂时让步",
+      "commonTrap": "问题根因可能未解决",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-019",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "强迫/命令",
+      "titleEn": "Force / Direct",
+      "examFocus": "紧急、安全或必须快速决策时可能适用",
+      "commonTrap": "日常冲突不应先命令",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-020",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "撤退/回避",
+      "titleEn": "Withdraw / Avoid",
+      "examFocus": "延后或退出不适合当前处理的冲突",
+      "commonTrap": "不是永久解决",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-021",
+      "domain": "People",
+      "task": "P2",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "团队基本规则",
+      "titleEn": "Team Ground Rules",
+      "examFocus": "团队共同建立行为边界并处理违规",
+      "commonTrap": "规则需要执行和复盘",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-022",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "服务型领导",
+      "titleEn": "Servant Leadership",
+      "examFocus": "赋能团队、清除障碍、促进自组织",
+      "commonTrap": "服务不等于替团队做决定",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-023",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "情境领导",
+      "titleEn": "Situational Leadership",
+      "examFocus": "按能力、意愿和情境调整领导方式",
+      "commonTrap": "不存在始终最好的单一风格",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-024",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "授权",
+      "titleEn": "Empowerment",
+      "examFocus": "给团队明确边界内的决策权与责任",
+      "commonTrap": "授权不等于放任",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-025",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "心理安全",
+      "titleEn": "Psychological Safety",
+      "examFocus": "允许提出异议、暴露风险和承认错误",
+      "commonTrap": "不等于没有绩效标准",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-026",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "角色职责",
+      "titleEn": "Roles and Responsibilities",
+      "examFocus": "澄清责任、权限和接口",
+      "commonTrap": "RACI 中 Accountable 通常应清晰且唯一",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-027",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "RACI",
+      "titleEn": "RACI Matrix",
+      "examFocus": "区分 Responsible、Accountable、Consulted、Informed",
+      "commonTrap": "Responsible 与 Accountable 易混",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-028",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "教练",
+      "titleEn": "Coaching",
+      "examFocus": "通过提问提升当前能力和自主解决问题",
+      "commonTrap": "不同于直接给答案",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-029",
+      "domain": "People",
+      "task": "P3",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "指导",
+      "titleEn": "Mentoring",
+      "examFocus": "由经验者提供长期发展建议",
+      "commonTrap": "不同于短期绩效纠正",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-030",
+      "domain": "People",
+      "task": "P4",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "干系人识别",
+      "titleEn": "Identify Stakeholders",
+      "examFocus": "尽早识别并持续更新",
+      "commonTrap": "只在启动阶段做一次不够",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-031",
+      "domain": "People",
+      "task": "P4",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "权力利益方格",
+      "titleEn": "Power/Interest Grid",
+      "examFocus": "按权力和兴趣规划参与策略",
+      "commonTrap": "分类会随项目变化",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-032",
+      "domain": "People",
+      "task": "P4",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "干系人登记册",
+      "titleEn": "Stakeholder Register",
+      "examFocus": "记录身份、影响、期望和分类",
+      "commonTrap": "敏感信息需控制访问",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-033",
+      "domain": "People",
+      "task": "P4",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "干系人参与计划",
+      "titleEn": "Stakeholder Engagement Plan",
+      "examFocus": "规划如何达成所需参与程度",
+      "commonTrap": "不是单纯沟通频率表",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-034",
+      "domain": "People",
+      "task": "P4",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "信任与影响",
+      "titleEn": "Trust and Influence",
+      "examFocus": "以透明、可靠和共同价值促进支持",
+      "commonTrap": "操纵不等于影响",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-035",
+      "domain": "People",
+      "task": "P5",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "期望对齐",
+      "titleEn": "Align Expectations",
+      "examFocus": "显化差异并促进共同理解",
+      "commonTrap": "不能单方面承诺满足所有期望",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-036",
+      "domain": "People",
+      "task": "P5",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "参与度评估矩阵",
+      "titleEn": "Stakeholder Engagement Assessment Matrix",
+      "examFocus": "比较当前与期望参与度",
+      "commonTrap": "不等同于权力利益方格",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-037",
+      "domain": "People",
+      "task": "P6",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "客户满意度",
+      "titleEn": "Customer Satisfaction",
+      "examFocus": "持续监测内外部客户期望和满意度",
+      "commonTrap": "验收一次不代表持续满意",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-038",
+      "domain": "People",
+      "task": "P7",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "知识转移",
+      "titleEn": "Knowledge Transfer",
+      "examFocus": "识别关键知识、收集并创造分享环境",
+      "commonTrap": "只上传文档不保证隐性知识转移",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-039",
+      "domain": "People",
+      "task": "P7",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "经验教训登记册",
+      "titleEn": "Lessons Learned Register",
+      "examFocus": "项目全过程持续记录和使用经验",
+      "commonTrap": "不是收尾才第一次创建",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-040",
+      "domain": "People",
+      "task": "P7",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "结对与跟岗",
+      "titleEn": "Pairing and Shadowing",
+      "examFocus": "转移隐性知识并降低关键人风险",
+      "commonTrap": "需考虑时间与访问权限",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-041",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "沟通管理计划",
+      "titleEn": "Communications Management Plan",
+      "examFocus": "规定对象、内容、渠道、频率和责任",
+      "commonTrap": "沟通不佳先检查计划与需求",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-042",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "互动式沟通",
+      "titleEn": "Interactive Communication",
+      "examFocus": "实时双向交流，适合复杂敏感问题",
+      "commonTrap": "会议不是天然高效",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-043",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "推式沟通",
+      "titleEn": "Push Communication",
+      "examFocus": "把信息发送给特定对象",
+      "commonTrap": "发送不代表理解",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-044",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "拉式沟通",
+      "titleEn": "Pull Communication",
+      "examFocus": "大量信息放在库中供需要者获取",
+      "commonTrap": "需保证可访问和可检索",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-045",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "反馈回路",
+      "titleEn": "Feedback Loop",
+      "examFocus": "确认接收、理解并据反馈调整",
+      "commonTrap": "单向报告不构成闭环",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-046",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "沟通渠道",
+      "titleEn": "Communication Channels",
+      "examFocus": "潜在渠道数 n(n-1)/2",
+      "commonTrap": "人数增加一人不是只增加一条渠道",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-047",
+      "domain": "People",
+      "task": "P8",
+      "chapterId": "02",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "信息辐射源",
+      "titleEn": "Information Radiator",
+      "examFocus": "让团队状态透明可见",
+      "commonTrap": "公开范围需符合保密要求",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-048",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "项目章程",
+      "titleEn": "Project Charter",
+      "examFocus": "正式授权项目并赋予项目经理相应权限",
+      "commonTrap": "章程不是详细项目管理计划",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-049",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "商业论证",
+      "titleEn": "Business Case",
+      "examFocus": "说明战略理由、可行性、成本收益和选择依据",
+      "commonTrap": "通常由发起组织负责，PM 可参与",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-050",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "收益管理计划",
+      "titleEn": "Benefits Management Plan",
+      "examFocus": "定义收益、负责人、指标和实现时间",
+      "commonTrap": "收益常延续到项目结束后",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-051",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "项目管理计划",
+      "titleEn": "Project Management Plan",
+      "examFocus": "整合各子计划和基准，指导执行与控制",
+      "commonTrap": "不是单个进度表",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-052",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "交付方法选择",
+      "titleEn": "Development Approach Selection",
+      "examFocus": "按不确定性、合规、反馈和交付节奏选择方法",
+      "commonTrap": "不要只按行业标签选择",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-053",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "依赖与缺口评估",
+      "titleEn": "Dependency and Gap Assessment",
+      "examFocus": "整合计划并识别跨工作依赖和缺口",
+      "commonTrap": "局部最优可能损害整体",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-054",
+      "domain": "Process",
+      "task": "PR1",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "数据驱动决策",
+      "titleEn": "Data-informed Decision Making",
+      "examFocus": "收集分析适量数据并结合判断",
+      "commonTrap": "AI 或指标不能替代责任判断",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-055",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "需求文件",
+      "titleEn": "Requirements Documentation",
+      "examFocus": "记录可追踪、可验证的需求",
+      "commonTrap": "解决方案偏好不一定是真需求",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-056",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "需求跟踪矩阵",
+      "titleEn": "Requirements Traceability Matrix",
+      "examFocus": "把需求关联到来源、交付物、测试和状态",
+      "commonTrap": "仅列需求不能称为追踪",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-057",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "项目范围说明书",
+      "titleEn": "Project Scope Statement",
+      "examFocus": "描述产品范围、项目范围、验收标准和除外项",
+      "commonTrap": "范围不只包括产品功能",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-058",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "工作分解结构",
+      "titleEn": "Work Breakdown Structure (WBS)",
+      "examFocus": "按可交付成果分解全部项目范围",
+      "commonTrap": "WBS 不是活动清单",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-059",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "工作包",
+      "titleEn": "Work Package",
+      "examFocus": "可估算、分配、监控的 WBS 最低管理层级",
+      "commonTrap": "不一定对应敏捷 User Story",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-060",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "范围基准",
+      "titleEn": "Scope Baseline",
+      "examFocus": "范围说明书、WBS 与 WBS 词典",
+      "commonTrap": "未经批准的需求不进入基准",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-061",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "确认范围",
+      "titleEn": "Validate Scope",
+      "examFocus": "由客户/授权干系人正式验收交付物",
+      "commonTrap": "与控制质量易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-062",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "控制范围",
+      "titleEn": "Control Scope",
+      "examFocus": "监测范围状态并管理基准变更",
+      "commonTrap": "防止 Scope Creep",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-063",
+      "domain": "Process",
+      "task": "PR2",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "范围蔓延",
+      "titleEn": "Scope Creep",
+      "examFocus": "未经控制的范围扩张",
+      "commonTrap": "小改动也可能累积影响",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-064",
+      "domain": "Process",
+      "task": "PR3",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "价值组件",
+      "titleEn": "Value Components",
+      "examFocus": "与关键干系人明确价值来源和衡量方式",
+      "commonTrap": "不同群体对价值定义可能不同",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-065",
+      "domain": "Process",
+      "task": "PR3",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "基于价值排序",
+      "titleEn": "Value-based Prioritization",
+      "examFocus": "结合收益、风险、成本和反馈安排工作",
+      "commonTrap": "最高声量不等于最高价值",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-066",
+      "domain": "Process",
+      "task": "PR3",
+      "chapterId": "03",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "增量交付",
+      "titleEn": "Incremental Delivery",
+      "examFocus": "分批交付可用价值并验证假设",
+      "commonTrap": "增量不等于半成品",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-067",
+      "domain": "Process",
+      "task": "PR3",
+      "chapterId": "03",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "最小可行产品",
+      "titleEn": "Minimum Viable Product (MVP)",
+      "examFocus": "用最小可用产品验证价值假设",
+      "commonTrap": "不是质量最低的产品",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-068",
+      "domain": "Process",
+      "task": "PR3",
+      "chapterId": "03",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "收益测量系统",
+      "titleEn": "Benefits Measurement System",
+      "examFocus": "定义指标、数据、频率、责任和阈值",
+      "commonTrap": "只在收尾测量太晚",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-069",
+      "domain": "Process",
+      "task": "PR4",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "资源管理计划",
+      "titleEn": "Resource Management Plan",
+      "examFocus": "规划团队和实物资源的获取、管理与释放",
+      "commonTrap": "资源不仅是人员",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-070",
+      "domain": "Process",
+      "task": "PR4",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "资源日历",
+      "titleEn": "Resource Calendar",
+      "examFocus": "记录资源可用时间和限制",
+      "commonTrap": "不等同项目日历",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-071",
+      "domain": "Process",
+      "task": "PR4",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "资源平衡",
+      "titleEn": "Resource Leveling",
+      "examFocus": "改变起止日期以解决资源过载，可能改变关键路径",
+      "commonTrap": "与资源平滑易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-072",
+      "domain": "Process",
+      "task": "PR4",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "资源平滑",
+      "titleEn": "Resource Smoothing",
+      "examFocus": "在浮动时间内调整，不改变关键路径",
+      "commonTrap": "无法解决所有过载",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-073",
+      "domain": "Process",
+      "task": "PR5",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "自制或外购",
+      "titleEn": "Make-or-Buy Analysis",
+      "examFocus": "比较内部制作与外部采购的全生命周期影响",
+      "commonTrap": "不能只比报价",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-074",
+      "domain": "Process",
+      "task": "PR5",
+      "chapterId": "05",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "固定总价合同",
+      "titleEn": "Fixed-Price Contract",
+      "examFocus": "范围清晰时常用，成本风险更多由卖方承担",
+      "commonTrap": "变更可能昂贵",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-075",
+      "domain": "Process",
+      "task": "PR5",
+      "chapterId": "05",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "成本补偿合同",
+      "titleEn": "Cost-Reimbursable Contract",
+      "examFocus": "买方支付允许成本，成本风险更多由买方承担",
+      "commonTrap": "仍需审计和绩效控制",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-076",
+      "domain": "Process",
+      "task": "PR5",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "工料合同",
+      "titleEn": "Time and Materials Contract",
+      "examFocus": "按工时与材料付费，兼具两类特征",
+      "commonTrap": "需上限和控制以防成本失控",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-077",
+      "domain": "Process",
+      "task": "PR5",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "采购谈判",
+      "titleEn": "Procurement Negotiation",
+      "examFocus": "基于目标、权限、备选方案和关系制定策略",
+      "commonTrap": "项目经理未必有签约权限",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-078",
+      "domain": "Process",
+      "task": "PR5",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "供应商绩效",
+      "titleEn": "Vendor Performance",
+      "examFocus": "按协议指标监测质量、进度、成本与合规",
+      "commonTrap": "先依据合同事实处理",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-079",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "项目财务需求",
+      "titleEn": "Project Financial Needs",
+      "examFocus": "规划资金、现金流、报告与治理需求",
+      "commonTrap": "预算批准不代表资金随时可用",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-080",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "成本基准",
+      "titleEn": "Cost Baseline",
+      "examFocus": "经批准、按时间分配的项目预算，不含管理储备",
+      "commonTrap": "与项目预算易混",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-081",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "应急储备",
+      "titleEn": "Contingency Reserve",
+      "examFocus": "针对已识别风险的已知未知，通常在基准内",
+      "commonTrap": "与管理储备易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-082",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "管理储备",
+      "titleEn": "Management Reserve",
+      "examFocus": "针对未知未知，通常不在成本基准内",
+      "commonTrap": "动用通常需治理批准",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-083",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "计划价值",
+      "titleEn": "Planned Value (PV)",
+      "examFocus": "截至状态日计划完成工作的预算价值",
+      "commonTrap": "不是实际花费",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-084",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "挣值",
+      "titleEn": "Earned Value (EV)",
+      "examFocus": "实际完成工作的预算价值",
+      "commonTrap": "不是收入",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-085",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "实际成本",
+      "titleEn": "Actual Cost (AC)",
+      "examFocus": "已完成工作实际发生的成本",
+      "commonTrap": "与 EV 单位可比但含义不同",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-086",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "成本偏差",
+      "titleEn": "Cost Variance (CV)",
+      "examFocus": "CV=EV-AC；正值有利",
+      "commonTrap": "正负方向与口语成本超支易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-087",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "进度偏差",
+      "titleEn": "Schedule Variance (SV)",
+      "examFocus": "SV=EV-PV；正值表示领先",
+      "commonTrap": "项目结束时 SV 通常为 0",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-088",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "成本绩效指数",
+      "titleEn": "Cost Performance Index (CPI)",
+      "examFocus": "CPI=EV/AC；大于 1 有利",
+      "commonTrap": "分子必须是 EV",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-089",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "进度绩效指数",
+      "titleEn": "Schedule Performance Index (SPI)",
+      "examFocus": "SPI=EV/PV；大于 1 有利",
+      "commonTrap": "不能直接表示落后多少天",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-090",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "完工估算",
+      "titleEn": "Estimate at Completion (EAC)",
+      "examFocus": "按未来绩效假设选择公式",
+      "commonTrap": "先判断当前偏差是否持续",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-091",
+      "domain": "Process",
+      "task": "PR6",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "完工尚需绩效指数",
+      "titleEn": "To-Complete Performance Index (TCPI)",
+      "examFocus": "衡量剩余工作需达到的成本效率",
+      "commonTrap": "分母取 BAC-AC 或 EAC-AC 取决目标",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-092",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "质量管理计划",
+      "titleEn": "Quality Management Plan",
+      "examFocus": "规定标准、度量、保证和控制方法",
+      "commonTrap": "质量是规划出来的，不是只靠检验",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-093",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "预防优于检查",
+      "titleEn": "Prevention over Inspection",
+      "examFocus": "在过程内建质量以减少缺陷",
+      "commonTrap": "检查仍有必要但不是唯一手段",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-094",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "一致成本",
+      "titleEn": "Cost of Conformance",
+      "examFocus": "预防与评估成本",
+      "commonTrap": "与失败成本易混",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-095",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "非一致成本",
+      "titleEn": "Cost of Nonconformance",
+      "examFocus": "内部/外部失败成本",
+      "commonTrap": "外部失败通常更昂贵",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-096",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "控制质量",
+      "titleEn": "Control Quality",
+      "examFocus": "检查结果是否符合质量要求并产生核实的交付物",
+      "commonTrap": "不等同客户正式验收",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-097",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "帕累托图",
+      "titleEn": "Pareto Chart",
+      "examFocus": "按频率排序识别少数关键原因",
+      "commonTrap": "相关不等于因果",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-098",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "因果图",
+      "titleEn": "Cause-and-Effect / Ishikawa Diagram",
+      "examFocus": "系统寻找潜在根因",
+      "commonTrap": "需数据验证假设",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-099",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "控制图",
+      "titleEn": "Control Chart",
+      "examFocus": "监测过程稳定性、控制界限和非随机模式",
+      "commonTrap": "控制界限不是规格界限",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-100",
+      "domain": "Process",
+      "task": "PR7",
+      "chapterId": "05",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "持续改进",
+      "titleEn": "Continuous Improvement",
+      "examFocus": "通过反馈和小步实验改善过程与结果",
+      "commonTrap": "不只在项目失败时做",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-101",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "里程碑",
+      "titleEn": "Milestone",
+      "examFocus": "零工期的重要事件或检查点",
+      "commonTrap": "不消耗工期不代表不重要",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-102",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "依赖关系",
+      "titleEn": "Dependency",
+      "examFocus": "识别强制、选择、外部、内部等依赖",
+      "commonTrap": "不要把所有依赖都当强制",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-103",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "完成到开始",
+      "titleEn": "Finish-to-Start (FS)",
+      "examFocus": "前置完成后后续才能开始",
+      "commonTrap": "最常见但不是唯一关系",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-104",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "关键路径",
+      "titleEn": "Critical Path",
+      "examFocus": "决定项目最短工期的最长路径",
+      "commonTrap": "不是单项工期最长的活动",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-105",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Predictive",
+      "titleZh": "总浮动时间",
+      "titleEn": "Total Float",
+      "examFocus": "TF=LS-ES=LF-EF",
+      "commonTrap": "关键路径浮动通常最小但可因约束为负",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-106",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "赶工",
+      "titleEn": "Crashing",
+      "examFocus": "增加成本/资源缩短关键路径活动",
+      "commonTrap": "只对关键路径且边际成本可接受",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-107",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Predictive",
+      "titleZh": "快速跟进",
+      "titleEn": "Fast Tracking",
+      "examFocus": "重叠原本顺序工作以缩短工期",
+      "commonTrap": "增加风险和返工",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-108",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "类比估算",
+      "titleEn": "Analogous Estimating",
+      "examFocus": "用历史相似项目快速高层估算",
+      "commonTrap": "快但精度通常较低",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-109",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "参数估算",
+      "titleEn": "Parametric Estimating",
+      "examFocus": "用统计关系和单位率估算",
+      "commonTrap": "模型质量决定结果",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-110",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "自下而上估算",
+      "titleEn": "Bottom-up Estimating",
+      "examFocus": "从详细组件汇总，通常更耗时",
+      "commonTrap": "前提是分解充分",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-111",
+      "domain": "Process",
+      "task": "PR8",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Predictive",
+      "titleZh": "三点估算",
+      "titleEn": "Three-point Estimating",
+      "examFocus": "用乐观、最可能、悲观反映不确定性",
+      "commonTrap": "PERT 加权公式需分清",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-112",
+      "domain": "Process",
+      "task": "PR9",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "状态日",
+      "titleEn": "Data Date / Status Date",
+      "examFocus": "报告和绩效测量的时间截点",
+      "commonTrap": "不能把状态日后的完成算入",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-113",
+      "domain": "Process",
+      "task": "PR9",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "项目指标",
+      "titleEn": "Project Metrics",
+      "examFocus": "选择能支持决策和价值验证的指标",
+      "commonTrap": "虚荣指标可能误导",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-114",
+      "domain": "Process",
+      "task": "PR9",
+      "chapterId": "04",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "工件管理",
+      "titleEn": "Artifact Management",
+      "examFocus": "按需要创建、维护、访问和审查工件",
+      "commonTrap": "工件多不代表管理好",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-115",
+      "domain": "Process",
+      "task": "PR9",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "燃尽图",
+      "titleEn": "Burndown Chart",
+      "examFocus": "显示剩余工作随时间变化",
+      "commonTrap": "范围变化会影响解读",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-116",
+      "domain": "Process",
+      "task": "PR9",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "燃起图",
+      "titleEn": "Burnup Chart",
+      "examFocus": "显示已完成工作并可显示总范围",
+      "commonTrap": "与燃尽图方向相反",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-117",
+      "domain": "Process",
+      "task": "PR9",
+      "chapterId": "04",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "速度",
+      "titleEn": "Velocity",
+      "examFocus": "团队每迭代完成的相对工作量，用于自身预测",
+      "commonTrap": "不可跨团队比较绩效",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-118",
+      "domain": "Process",
+      "task": "PR10",
+      "chapterId": "12",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "正式验收",
+      "titleEn": "Formal Acceptance",
+      "examFocus": "取得授权干系人的完成批准",
+      "commonTrap": "口头满意不一定满足治理",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-119",
+      "domain": "Process",
+      "task": "PR10",
+      "chapterId": "12",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "移交准备度",
+      "titleEn": "Transition Readiness",
+      "examFocus": "验证运营、培训、支持、数据和责任均可承接",
+      "commonTrap": "上线不等于可运营",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-120",
+      "domain": "Process",
+      "task": "PR10",
+      "chapterId": "12",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "行政收尾",
+      "titleEn": "Administrative Closure",
+      "examFocus": "归档、经验教训、资源释放、财务和采购收尾",
+      "commonTrap": "项目被取消也要收尾",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-121",
+      "domain": "Business Environment",
+      "task": "BE1",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "项目治理",
+      "titleEn": "Project Governance",
+      "examFocus": "定义决策权、规则、监督、报告和责任边界",
+      "commonTrap": "治理不是项目经理日常管理的同义词",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-122",
+      "domain": "Business Environment",
+      "task": "BE1",
+      "chapterId": "06",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "组织过程资产",
+      "titleEn": "Organizational Process Assets (OPAs)",
+      "examFocus": "组织内部可更新的过程、模板、知识库和政策",
+      "commonTrap": "与 EEF 易混",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-123",
+      "domain": "Business Environment",
+      "task": "BE1",
+      "chapterId": "06",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "事业环境因素",
+      "titleEn": "Enterprise Environmental Factors (EEFs)",
+      "examFocus": "对项目有影响但团队通常无法直接控制的内外部条件",
+      "commonTrap": "不是所有外部因素都不可影响",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-124",
+      "domain": "Business Environment",
+      "task": "BE1",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "成功指标",
+      "titleEn": "Success Metrics",
+      "examFocus": "从传统约束扩展到价值、成果和干系人感知",
+      "commonTrap": "范围进度成本达标仍可能价值失败",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-125",
+      "domain": "Business Environment",
+      "task": "BE1",
+      "chapterId": "06",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "升级路径与阈值",
+      "titleEn": "Escalation Path and Threshold",
+      "examFocus": "预先定义何时、向谁升级",
+      "commonTrap": "不是遇到问题立即升级",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-126",
+      "domain": "Business Environment",
+      "task": "BE1",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "职业道德",
+      "titleEn": "Professional Ethics",
+      "examFocus": "责任、尊重、公正、诚实地决策与披露",
+      "commonTrap": "不能用商业压力合理化隐瞒",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-127",
+      "domain": "Business Environment",
+      "task": "BE2",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "合规需求",
+      "titleEn": "Compliance Requirements",
+      "examFocus": "识别安全、健康、隐私、监管和可持续要求",
+      "commonTrap": "合规不是可选功能",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-128",
+      "domain": "Business Environment",
+      "task": "BE2",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "不合规后果",
+      "titleEn": "Consequences of Noncompliance",
+      "examFocus": "评估法律、财务、声誉和人员影响",
+      "commonTrap": "高风险时需及时保护和升级",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-129",
+      "domain": "Business Environment",
+      "task": "BE2",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "合规度量",
+      "titleEn": "Compliance Measurement",
+      "examFocus": "定义证据、审计、阈值和纠正机制",
+      "commonTrap": "仅声明遵守不足以证明",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-130",
+      "domain": "Business Environment",
+      "task": "BE2",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "数据隐私",
+      "titleEn": "Data Privacy",
+      "examFocus": "限定目的、最小化数据、控制访问和保留",
+      "commonTrap": "AI 场景同样适用",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-131",
+      "domain": "Business Environment",
+      "task": "BE2",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "信息安全",
+      "titleEn": "Information Security",
+      "examFocus": "按风险保护机密性、完整性和可用性",
+      "commonTrap": "安全不可只在上线前检查",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-132",
+      "domain": "Business Environment",
+      "task": "BE3",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "变更请求",
+      "titleEn": "Change Request",
+      "examFocus": "正式记录纠正、预防、缺陷修复或更新",
+      "commonTrap": "提出不代表批准",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-133",
+      "domain": "Business Environment",
+      "task": "BE3",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "影响分析",
+      "titleEn": "Impact Analysis",
+      "examFocus": "分析范围、进度、成本、质量、风险、价值和资源影响",
+      "commonTrap": "不能先实施再补分析",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-134",
+      "domain": "Business Environment",
+      "task": "BE3",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "实施整体变更控制",
+      "titleEn": "Perform Integrated Change Control",
+      "examFocus": "审查、批准/拒绝并管理已批准变更",
+      "commonTrap": "PM 未必可独自批准所有变更",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-135",
+      "domain": "Business Environment",
+      "task": "BE3",
+      "chapterId": "06",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "变更控制委员会",
+      "titleEn": "Change Control Board (CCB)",
+      "examFocus": "按授权审查特定变更",
+      "commonTrap": "不是每个变更都必须交同一 CCB",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-136",
+      "domain": "Business Environment",
+      "task": "BE3",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "敏捷中的变更",
+      "titleEn": "Change in Agile",
+      "examFocus": "新需求进入 Product Backlog，由 PO 排序并在未来迭代考虑",
+      "commonTrap": "不要中途随意打断 Sprint",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-137",
+      "domain": "Business Environment",
+      "task": "BE4",
+      "chapterId": "07",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "障碍",
+      "titleEn": "Impediment",
+      "examFocus": "阻碍团队进展的条件，由服务型领导促进移除",
+      "commonTrap": "团队能解决的先赋能团队",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-138",
+      "domain": "Business Environment",
+      "task": "BE4",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "问题日志",
+      "titleEn": "Issue Log",
+      "examFocus": "记录已发生问题、负责人、状态和目标日期",
+      "commonTrap": "与 Risk Register 易混",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-139",
+      "domain": "Business Environment",
+      "task": "BE4",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "风险转化为问题",
+      "titleEn": "Risk Becomes an Issue",
+      "examFocus": "触发条件发生后切换到问题处理并执行响应/权变",
+      "commonTrap": "仍只监控风险登记册会延误",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-140",
+      "domain": "Business Environment",
+      "task": "BE4",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "权变措施",
+      "titleEn": "Workaround",
+      "examFocus": "对未识别或无预案的已发生问题采取响应",
+      "commonTrap": "不同于预先计划的风险响应",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-141",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "风险管理计划",
+      "titleEn": "Risk Management Plan",
+      "examFocus": "规定方法、角色、类别、阈值和报告",
+      "commonTrap": "不列具体风险本身",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-142",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "风险登记册",
+      "titleEn": "Risk Register",
+      "examFocus": "记录风险、原因、触发、分析、责任人和响应",
+      "commonTrap": "与风险报告/问题日志易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-143",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "风险报告",
+      "titleEn": "Risk Report",
+      "examFocus": "汇总整体风险暴露和趋势",
+      "commonTrap": "不是逐项清单的替代",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-144",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "定性风险分析",
+      "titleEn": "Qualitative Risk Analysis",
+      "examFocus": "按概率、影响、紧迫性等排序",
+      "commonTrap": "优先级不是精确货币值",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-145",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "定量风险分析",
+      "titleEn": "Quantitative Risk Analysis",
+      "examFocus": "量化整体目标影响，如模拟、决策树和 EMV",
+      "commonTrap": "并非每个项目都必须做",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-146",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "威胁规避",
+      "titleEn": "Avoid Threat",
+      "examFocus": "改变计划以消除威胁或保护目标",
+      "commonTrap": "不同于减轻概率/影响",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-147",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "威胁转移",
+      "titleEn": "Transfer Threat",
+      "examFocus": "把财务后果/责任转给第三方",
+      "commonTrap": "风险本身不一定消失",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-148",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "威胁减轻",
+      "titleEn": "Mitigate Threat",
+      "examFocus": "降低概率或影响",
+      "commonTrap": "响应后仍有残余风险",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-149",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "机会开拓",
+      "titleEn": "Exploit Opportunity",
+      "examFocus": "采取措施确保机会发生",
+      "commonTrap": "机会版的主动最强策略",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-150",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "机会分享",
+      "titleEn": "Share Opportunity",
+      "examFocus": "与最能捕获机会的第三方合作",
+      "commonTrap": "不是简单告知",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-151",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "风险接受",
+      "titleEn": "Accept Risk",
+      "examFocus": "主动准备储备或被动观察",
+      "commonTrap": "接受不等于忽略",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-152",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "风险升级",
+      "titleEn": "Escalate Risk",
+      "examFocus": "超出项目范围/权限时移交适当层级",
+      "commonTrap": "升级后仍需跟踪接口",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-153",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "次生风险",
+      "titleEn": "Secondary Risk",
+      "examFocus": "因风险响应而产生的新风险",
+      "commonTrap": "与残余风险易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-154",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "残余风险",
+      "titleEn": "Residual Risk",
+      "examFocus": "响应后仍剩余的风险",
+      "commonTrap": "需监控并可能准备回退",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-155",
+      "domain": "Business Environment",
+      "task": "BE5",
+      "chapterId": "07",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "All",
+      "titleZh": "应急计划",
+      "titleEn": "Contingency Plan",
+      "examFocus": "触发条件发生时执行的计划",
+      "commonTrap": "未触发前不随意执行",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-156",
+      "domain": "Business Environment",
+      "task": "BE6",
+      "chapterId": "07",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "回顾会议",
+      "titleEn": "Retrospective",
+      "examFocus": "周期性检查团队过程并形成可执行改进",
+      "commonTrap": "不是追责会",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-157",
+      "domain": "Business Environment",
+      "task": "BE6",
+      "chapterId": "07",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "根因分析",
+      "titleEn": "Root Cause Analysis",
+      "examFocus": "寻找系统性原因并验证",
+      "commonTrap": "第一表象不一定是根因",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-158",
+      "domain": "Business Environment",
+      "task": "BE6",
+      "chapterId": "07",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "组织过程资产更新",
+      "titleEn": "OPA Updates",
+      "examFocus": "将验证有效的经验沉淀供未来使用",
+      "commonTrap": "敏感信息需脱敏",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-159",
+      "domain": "Business Environment",
+      "task": "BE7",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "组织文化评估",
+      "titleEn": "Organizational Culture Assessment",
+      "examFocus": "理解价值观、权力结构和变革准备度",
+      "commonTrap": "同一方法不适合所有组织",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-160",
+      "domain": "Business Environment",
+      "task": "BE7",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "变革影响评估",
+      "titleEn": "Change Impact Assessment",
+      "examFocus": "识别受影响角色、流程、能力和行为",
+      "commonTrap": "上线培训不等于组织变革完成",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-161",
+      "domain": "Business Environment",
+      "task": "BE7",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "变革采用",
+      "titleEn": "Change Adoption",
+      "examFocus": "通过参与、沟通、培训、支持和度量促进采用",
+      "commonTrap": "强制发布不能保证使用",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-162",
+      "domain": "Business Environment",
+      "task": "BE8",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "外部商业环境",
+      "titleEn": "External Business Environment",
+      "examFocus": "持续扫描监管、技术、市场和地缘变化",
+      "commonTrap": "外部变化也可能带来机会",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-163",
+      "domain": "Business Environment",
+      "task": "BE8",
+      "chapterId": "06",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "战略一致性",
+      "titleEn": "Strategic Alignment",
+      "examFocus": "重新确认项目继续支持组织目标和价值",
+      "commonTrap": "沉没成本不应成为继续理由",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-164",
+      "domain": "Business Environment",
+      "task": "BE8",
+      "chapterId": "06",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "范围/Backlog 重排",
+      "titleEn": "Reprioritize Scope / Backlog",
+      "examFocus": "根据外部变化评估影响并调整优先级",
+      "commonTrap": "预测型需遵循变更治理",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-165",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "产品负责人",
+      "titleEn": "Product Owner (PO)",
+      "examFocus": "最大化产品价值并排序 Product Backlog",
+      "commonTrap": "PO 不是团队主管，也不由 PM 替代排序",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-166",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "Scrum Master",
+      "titleEn": "Scrum Master",
+      "examFocus": "促进 Scrum、辅导团队、移除障碍",
+      "commonTrap": "不是项目秘书或任务分配者",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-167",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "开发人员",
+      "titleEn": "Developers",
+      "examFocus": "跨职能、自管理地创建可用增量",
+      "commonTrap": "不只指程序员",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-168",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "产品待办事项列表",
+      "titleEn": "Product Backlog",
+      "examFocus": "有序、动态的产品工作唯一来源",
+      "commonTrap": "不是固定范围基准",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-169",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "Sprint 待办事项列表",
+      "titleEn": "Sprint Backlog",
+      "examFocus": "Sprint Goal、选入条目与交付计划",
+      "commonTrap": "由 Developers 管理",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-170",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "产品增量",
+      "titleEn": "Increment",
+      "examFocus": "满足 DoD、可用并累积价值的成果",
+      "commonTrap": "不必等 Sprint Review 才能发布",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-171",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Agile",
+      "titleZh": "完成定义",
+      "titleEn": "Definition of Done (DoD)",
+      "examFocus": "所有增量共同的质量透明标准",
+      "commonTrap": "与单条 Story 的 Acceptance Criteria 易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-172",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Agile",
+      "titleZh": "验收标准",
+      "titleEn": "Acceptance Criteria",
+      "examFocus": "特定 Backlog Item 的可接受条件",
+      "commonTrap": "不能替代 DoD",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-173",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "用户故事",
+      "titleEn": "User Story",
+      "examFocus": "从用户价值表达需求并通过对话细化",
+      "commonTrap": "模板不是完整需求合同",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-174",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "Sprint Planning",
+      "titleEn": "Sprint Planning",
+      "examFocus": "确定为什么、做什么、如何做",
+      "commonTrap": "不是 PO 单方面分派",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-175",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "Daily Scrum",
+      "titleEn": "Daily Scrum",
+      "examFocus": "Developers 检查 Sprint Goal 进展并调整计划",
+      "commonTrap": "不是向 PM 汇报状态",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-176",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "Sprint Review",
+      "titleEn": "Sprint Review",
+      "examFocus": "与干系人检查成果和环境，调整 Backlog",
+      "commonTrap": "不是正式阶段门验收会",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-177",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "Sprint Retrospective",
+      "titleEn": "Sprint Retrospective",
+      "examFocus": "改进质量和团队工作方式",
+      "commonTrap": "与 Review 的产品焦点易混",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-178",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "Backlog Refinement",
+      "titleEn": "Backlog Refinement",
+      "examFocus": "持续拆分、澄清、估算和排序",
+      "commonTrap": "不是正式 Scrum Event",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-179",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "故事点",
+      "titleEn": "Story Points",
+      "examFocus": "相对估算复杂度、工作量和不确定性",
+      "commonTrap": "不是工时，也不可跨团队比较",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-180",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "计划扑克",
+      "titleEn": "Planning Poker",
+      "examFocus": "用独立估算和讨论形成共享理解",
+      "commonTrap": "不是取平均数结束",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-181",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "看板",
+      "titleEn": "Kanban",
+      "examFocus": "可视化流程、限制 WIP、管理流动",
+      "commonTrap": "看板不要求固定 Sprint",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-182",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Agile",
+      "titleZh": "在制品限制",
+      "titleEn": "Work in Progress (WIP) Limit",
+      "examFocus": "限制并行工作以改善流动和暴露瓶颈",
+      "commonTrap": "有空位才拉取新工作",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-183",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "⚪ 了解 Awareness",
+      "approach": "Agile",
+      "titleZh": "循环时间",
+      "titleEn": "Cycle Time",
+      "examFocus": "工作开始到完成的时间",
+      "commonTrap": "与 Lead Time 易混",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-184",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "⚪ 了解 Awareness",
+      "approach": "Agile",
+      "titleZh": "前置时间",
+      "titleEn": "Lead Time",
+      "examFocus": "从请求提出到交付的总时间",
+      "commonTrap": "通常包含等待开始",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-185",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "技术债",
+      "titleEn": "Technical Debt",
+      "examFocus": "短期权衡造成的未来维护成本",
+      "commonTrap": "需透明化并有计划偿还",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-186",
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "chapterId": "08",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Agile",
+      "titleZh": "尖峰",
+      "titleEn": "Spike",
+      "examFocus": "限时探索以减少技术/需求不确定性",
+      "commonTrap": "不是无限研究",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-187",
+      "domain": "Hybrid",
+      "task": "Cross-cutting",
+      "chapterId": "09",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Hybrid",
+      "titleZh": "混合治理",
+      "titleEn": "Hybrid Governance",
+      "examFocus": "统一价值和治理，按工作流选择方法",
+      "commonTrap": "不能让两套方法互相矛盾",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-188",
+      "domain": "Hybrid",
+      "task": "Cross-cutting",
+      "chapterId": "09",
+      "priority": "🔴 必考 Must Know",
+      "approach": "Hybrid",
+      "titleZh": "预测型外壳+敏捷交付",
+      "titleEn": "Predictive Governance with Agile Delivery",
+      "examFocus": "固定监管里程碑下迭代开发",
+      "commonTrap": "需映射增量、证据和阶段门",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-189",
+      "domain": "Hybrid",
+      "task": "Cross-cutting",
+      "chapterId": "09",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Hybrid",
+      "titleZh": "接口管理",
+      "titleEn": "Interface Management",
+      "examFocus": "管理不同方法、团队和供应商之间的依赖",
+      "commonTrap": "接口通常是混合项目主要风险",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-190",
+      "domain": "Hybrid",
+      "task": "Cross-cutting",
+      "chapterId": "09",
+      "priority": "🟡 易错 Easy to Confuse",
+      "approach": "Hybrid",
+      "titleZh": "双重报告",
+      "titleEn": "Dual Reporting",
+      "examFocus": "将敏捷指标映射到治理层可理解的成果指标",
+      "commonTrap": "不要把 Story Point 当财务进度",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-191",
+      "domain": "Hybrid",
+      "task": "Cross-cutting",
+      "chapterId": "09",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Hybrid",
+      "titleZh": "渐进明细",
+      "titleEn": "Progressive Elaboration",
+      "examFocus": "随着信息增加逐步细化计划",
+      "commonTrap": "与 Scope Creep 不同",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-192",
+      "domain": "Hybrid",
+      "task": "Cross-cutting",
+      "chapterId": "09",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "Hybrid",
+      "titleZh": "滚动式规划",
+      "titleEn": "Rolling Wave Planning",
+      "examFocus": "近期详细、远期高层规划",
+      "commonTrap": "不等于没有长期方向",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-193",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "负责任的 AI",
+      "titleEn": "Responsible AI",
+      "examFocus": "以人类监督、公平、透明、安全和问责使用 AI",
+      "commonTrap": "工具供应商不承担项目经理全部责任",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-194",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "人类监督",
+      "titleEn": "Human Oversight",
+      "examFocus": "高影响决定由有权限的人审查和负责",
+      "commonTrap": "不能盲目自动执行建议",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-195",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "AI 输出验证",
+      "titleEn": "AI Output Validation",
+      "examFocus": "用可靠数据、领域专家和交叉检查验证输出",
+      "commonTrap": "流畅文本不等于正确",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-196",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "数据质量",
+      "titleEn": "Data Quality",
+      "examFocus": "评估准确性、完整性、代表性、时效性和血缘",
+      "commonTrap": "垃圾进会导致垃圾出",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-197",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "算法偏差",
+      "titleEn": "Algorithmic Bias",
+      "examFocus": "识别数据和模型对群体造成的不公平影响",
+      "commonTrap": "平均准确率可能掩盖群体差异",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-198",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "AI 隐私与保密",
+      "titleEn": "AI Privacy and Confidentiality",
+      "examFocus": "最小化敏感数据并按政策选择工具",
+      "commonTrap": "不得把机密内容随意输入公共模型",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-199",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "AI 使用场景评估",
+      "titleEn": "AI Use-case Assessment",
+      "examFocus": "比较价值、风险、可解释性、合规和可逆性",
+      "commonTrap": "为了跟风使用不是商业论证",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-200",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "提示与版本记录",
+      "titleEn": "Prompt and Version Logging",
+      "examFocus": "保留关键输入、模型版本、审批和输出证据",
+      "commonTrap": "可审计性需按风险裁剪",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-201",
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "chapterId": "10",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "AI 辅助估算",
+      "titleEn": "AI-assisted Estimation",
+      "examFocus": "用历史数据辅助预测并说明不确定性",
+      "commonTrap": "不能省略专家判断和基准校准",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-202",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "可持续性整合",
+      "titleEn": "Sustainability Integration",
+      "examFocus": "在治理、规划、质量、采购、风险和价值中持续考虑",
+      "commonTrap": "不是收尾报告附录",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-203",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "生命周期思维",
+      "titleEn": "Life-cycle Thinking",
+      "examFocus": "评估从获取、建造、运营到退役的影响",
+      "commonTrap": "只优化项目交付阶段可能转移负担",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-204",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "三重底线",
+      "titleEn": "People, Planet, Prosperity",
+      "examFocus": "平衡社会、环境与经济价值",
+      "commonTrap": "不能只用短期财务指标",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-205",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "可持续采购",
+      "titleEn": "Sustainable Procurement",
+      "examFocus": "把供应链环境、社会、治理和全寿命成本纳入选择",
+      "commonTrap": "最低报价未必最佳价值",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-206",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "碳与资源指标",
+      "titleEn": "Carbon and Resource Metrics",
+      "examFocus": "建立基线、边界、数据来源和改进目标",
+      "commonTrap": "指标边界不清会误导",
+      "contentCoverage": "brief"
+    },
+    {
+      "id": "KP-207",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "社会影响",
+      "titleEn": "Social Impact",
+      "examFocus": "考虑安全、公平、可及性、社区和劳工影响",
+      "commonTrap": "合规只是最低线",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-208",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🔴 必考 Must Know",
+      "approach": "All",
+      "titleZh": "可持续性风险",
+      "titleEn": "Sustainability Risk",
+      "examFocus": "识别环境、社会、供应链、监管与声誉不确定性",
+      "commonTrap": "既有威胁也有机会",
+      "contentCoverage": "index_only"
+    },
+    {
+      "id": "KP-209",
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "chapterId": "11",
+      "priority": "🟠 高频 High Frequency",
+      "approach": "All",
+      "titleZh": "净正向价值",
+      "titleEn": "Net-positive Value",
+      "examFocus": "追求超越减害的再生或正向结果",
+      "commonTrap": "需可衡量且防止绿色漂洗",
+      "contentCoverage": "index_only"
+    }
+  ],
+  "questions": [
+    {
+      "id": "KP-FOUND-001",
+      "stem": "某物流公司在三周节庆期间每天按同一流程分拣包裹，节后取消夜班。这项夜班安排最准确的分类是什么？",
+      "options": {
+        "A": "项目，因为只有三周",
+        "B": "运营，因为核心工作是重复维持业务",
+        "C": "项目群，因为涉及多班组",
+        "D": "无法判断，因为没有预算"
+      },
+      "domain": "Foundation",
+      "task": "F",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Temporary ≠ Project"
+    },
+    {
+      "id": "KP-FOUND-002",
+      "stem": "企业决定在六个月内设计并部署新的仓储机器人系统，完成验收后交给运营团队维护。这段‘设计并部署’是什么？",
+      "options": {
+        "A": "项目",
+        "B": "运营",
+        "C": "项目组合",
+        "D": "持续改进例会"
+      },
+      "domain": "Foundation",
+      "task": "F",
+      "approach": "All",
+      "difficulty": "易",
+      "trap": "把长期使用误判为运营"
+    },
+    {
+      "id": "KP-FOUND-003",
+      "stem": "公司每年为不同城市举办一次新品发布会。哪项最准确？",
+      "options": {
+        "A": "因为每年重复，所以一定是运营",
+        "B": "每场可作为独立项目，因为地点、干系人和目标情境独特",
+        "C": "全部只能算项目组合",
+        "D": "只有首次才是项目"
+      },
+      "domain": "Foundation",
+      "task": "F",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "重复 ≠ 运营"
+    },
+    {
+      "id": "KP-FOUND-004",
+      "stem": "软件按期上线且未超预算，但用户采用率仅为计划的 10%。最合理的判断是？",
+      "options": {
+        "A": "项目必然成功，因为三重约束达标",
+        "B": "项目必然失败，因为任何收益都应在收尾前实现",
+        "C": "需按既定成果和收益指标评估价值，并明确后续收益责任",
+        "D": "只需增加范围"
+      },
+      "domain": "Foundation",
+      "task": "F",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Deliverable ≠ Outcome ≠ Benefit"
+    },
+    {
+      "id": "KP-FOUND-005",
+      "stem": "监管文档要求稳定，但产品界面需求需每两周接受用户反馈。最合适的总体方法是？",
+      "options": {
+        "A": "全预测型，禁止界面变化",
+        "B": "全敏捷，忽略阶段审批",
+        "C": "混合型：治理文档预测规划，界面迭代交付并管理接口",
+        "D": "先不选择任何方法"
+      },
+      "domain": "Process",
+      "task": "PR1",
+      "approach": "Hybrid",
+      "difficulty": "中",
+      "trap": "Hybrid 不是机械各半"
+    },
+    {
+      "id": "KP-RISK-001",
+      "stem": "风险登记册中记录的供应商停产触发条件今天已经发生。PM 下一步最应做什么？",
+      "options": {
+        "A": "继续只监控概率",
+        "B": "把它当 Issue，执行已批准响应并更新相关记录",
+        "C": "删除该风险",
+        "D": "等下次月报"
+      },
+      "domain": "Business Environment",
+      "task": "BE4/BE5",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Risk 与 Issue 时间状态"
+    },
+    {
+      "id": "KP-RISK-002",
+      "stem": "团队购买保险以应对设备损坏。哪项最准确？",
+      "options": {
+        "A": "风险已消失",
+        "B": "这是 Transfer，但仍可能有免赔额、延迟等残余风险",
+        "C": "这是 Avoid",
+        "D": "这是 Exploit"
+      },
+      "domain": "Business Environment",
+      "task": "BE5",
+      "approach": "Predictive",
+      "difficulty": "易",
+      "trap": "Transfer ≠ Eliminate"
+    },
+    {
+      "id": "KP-RISK-003",
+      "stem": "为降低网络攻击风险，团队启用多因素认证；因此部分用户可能流失。用户流失属于什么？",
+      "options": {
+        "A": "残余风险",
+        "B": "次生风险",
+        "C": "机会",
+        "D": "已知问题"
+      },
+      "domain": "Business Environment",
+      "task": "BE5",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Secondary vs Residual"
+    },
+    {
+      "id": "KP-RISK-004",
+      "stem": "一个从未识别的关键接口故障已经造成停机。没有预案。PM 应把临时修复措施称为什么？",
+      "options": {
+        "A": "Contingency Plan",
+        "B": "Workaround",
+        "C": "Risk Appetite",
+        "D": "Scope Baseline"
+      },
+      "domain": "Business Environment",
+      "task": "BE4",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "预案与权变"
+    },
+    {
+      "id": "KP-RISK-005",
+      "stem": "一个威胁超出项目权限并由企业安全委员会拥有。PM 最适合采用哪种策略？",
+      "options": {
+        "A": "Accept 并停止记录",
+        "B": "Escalate，并管理移交接口和持续沟通",
+        "C": "Exploit",
+        "D": "自行更改企业政策"
+      },
+      "domain": "Business Environment",
+      "task": "BE5",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "升级不是甩手"
+    },
+    {
+      "id": "KP-CHANGE-001",
+      "stem": "预测型项目中，客户提出‘只改一个小字段’。PM first 应做什么？",
+      "options": {
+        "A": "让团队立即改",
+        "B": "记录变更并分析对基准、风险和价值的影响",
+        "C": "直接拒绝所有变化",
+        "D": "等项目结束"
+      },
+      "domain": "Business Environment",
+      "task": "BE3",
+      "approach": "Predictive",
+      "difficulty": "易",
+      "trap": "小变更也需控制"
+    },
+    {
+      "id": "KP-CHANGE-002",
+      "stem": "变更已由有权限机构批准。PM 下一步最合适的是？",
+      "options": {
+        "A": "更新相关计划/基准和沟通后实施",
+        "B": "再次当作未批准请求",
+        "C": "只口头通知一名成员",
+        "D": "不记录直接上线"
+      },
+      "domain": "Business Environment",
+      "task": "BE3",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "批准 ≠ 自动实施完成"
+    },
+    {
+      "id": "KP-CHANGE-003",
+      "stem": "Sprint 第三天，一名高管要求加入新报表。团队判断它不影响当前 Sprint Goal。应怎么做？",
+      "options": {
+        "A": "PM 直接塞进 Sprint Backlog",
+        "B": "交给 PO 进入 Product Backlog 并排序，除非团队自愿协商调整",
+        "C": "永久拒绝",
+        "D": "提交 CCB 后立即中断 Sprint"
+      },
+      "domain": "Business Environment",
+      "task": "BE3",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "预测型变更流程套敏捷"
+    },
+    {
+      "id": "KP-CHANGE-004",
+      "stem": "客户希望下月开始获得收益，而完整产品还需八个月。最佳做法是？",
+      "options": {
+        "A": "坚持全部范围完成后一次交付",
+        "B": "与干系人识别高价值可用增量并重新排序",
+        "C": "删除质量活动",
+        "D": "提高团队加班"
+      },
+      "domain": "Process",
+      "task": "PR3",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "增量不是半成品"
+    },
+    {
+      "id": "KP-CHANGE-005",
+      "stem": "下列哪项最符合 MVP？",
+      "options": {
+        "A": "缺陷最多但最快发布的版本",
+        "B": "具备最小可用能力、能验证关键价值假设的版本",
+        "C": "所有功能的低保真原型",
+        "D": "不需要验收标准的版本"
+      },
+      "domain": "Process",
+      "task": "PR3",
+      "approach": "Agile",
+      "difficulty": "易",
+      "trap": "MVP ≠ 最低质量"
+    },
+    {
+      "id": "KP-AGILE-001",
+      "stem": "Daily Scrum 中，Scrum Master 正在逐人分配当天任务。最主要的问题是什么？",
+      "options": {
+        "A": "会议时间太短",
+        "B": "削弱 Developers 的自管理，Daily Scrum 应由其检查目标并调整计划",
+        "C": "PO 没有参加",
+        "D": "必须改成周会"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "Servant Leadership 不是指挥控制"
+    },
+    {
+      "id": "KP-AGILE-002",
+      "stem": "一个条目满足自己的 Acceptance Criteria，但自动化安全扫描未达到团队 DoD。它是什么状态？",
+      "options": {
+        "A": "Done",
+        "B": "未 Done，不能计入可用 Increment",
+        "C": "只要 PO 同意就是 Done",
+        "D": "自动进入下个版本且算完成"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "AC vs DoD"
+    },
+    {
+      "id": "KP-AGILE-003",
+      "stem": "哪一事件主要检查产品成果、外部变化并与干系人调整 Product Backlog？",
+      "options": {
+        "A": "Sprint Review",
+        "B": "Sprint Retrospective",
+        "C": "Daily Scrum",
+        "D": "Backlog Refinement"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "易",
+      "trap": "Review vs Retro"
+    },
+    {
+      "id": "KP-AGILE-004",
+      "stem": "团队把 WIP Limit 设为 3，当前已有 3 个条目进行中。最符合 Kanban 的动作是？",
+      "options": {
+        "A": "再开始两个以提高利用率",
+        "B": "帮助完成或解除现有工作阻塞，再拉取新工作",
+        "C": "取消限制",
+        "D": "增加个人绩效排名"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "忙碌不等于流动"
+    },
+    {
+      "id": "KP-AGILE-005",
+      "stem": "管理层想用不同团队的 Story Point 比较绩效。PM 应如何回应？",
+      "options": {
+        "A": "同意，点数是标准工时",
+        "B": "说明点数是团队内部相对尺度，改用成果、价值和流动指标",
+        "C": "把所有点乘以 8 小时",
+        "D": "要求高绩效团队提高估算"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "Story Points ≠ hours/KPI"
+    },
+    {
+      "id": "KP-EVM-001",
+      "stem": "状态日 PV=90、EV=80、AC=100。哪项正确？",
+      "options": {
+        "A": "进度领先且低于预算",
+        "B": "进度落后且超预算",
+        "C": "进度领先但超预算",
+        "D": "仅凭这些数无法判断任何状态"
+      },
+      "domain": "Process",
+      "task": "PR6",
+      "approach": "Predictive",
+      "difficulty": "易",
+      "trap": "EV 必须做分子/被减数"
+    },
+    {
+      "id": "KP-EVM-002",
+      "stem": "项目必须缩短两周，且不得增加预算。PM first 应检查什么？",
+      "options": {
+        "A": "非关键路径全部加人",
+        "B": "关键路径上可否安全重叠活动及其新增风险",
+        "C": "所有活动减少质量检查",
+        "D": "直接压缩基准"
+      },
+      "domain": "Process",
+      "task": "PR8",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "先找关键路径"
+    },
+    {
+      "id": "KP-EVM-003",
+      "stem": "一个资源在两项关键活动间冲突，且没有可用浮动。使用 Resource Leveling 最可能怎样？",
+      "options": {
+        "A": "一定不改变工期",
+        "B": "可能改变关键路径和完工日期",
+        "C": "只改变成本基准",
+        "D": "等同于 Smoothing"
+      },
+      "domain": "Process",
+      "task": "PR4",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "Leveling vs Smoothing"
+    },
+    {
+      "id": "KP-EVM-004",
+      "stem": "BAC=200，EV=100，AC=125；假设当前成本效率会持续，EAC 最合适为？",
+      "options": {
+        "A": "160",
+        "B": "200",
+        "C": "250",
+        "D": "325"
+      },
+      "domain": "Process",
+      "task": "PR6",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "先说明偏差持续假设"
+    },
+    {
+      "id": "KP-EVM-005",
+      "stem": "哪项关于关键路径最准确？",
+      "options": {
+        "A": "由持续时间最长的单个活动组成",
+        "B": "是网络中总持续时间最长、决定最短工期的路径",
+        "C": "永远只有一条且浮动永远为零",
+        "D": "任何活动延误都必然延误项目"
+      },
+      "domain": "Process",
+      "task": "PR8",
+      "approach": "Predictive",
+      "difficulty": "易",
+      "trap": "单活动 vs 路径"
+    },
+    {
+      "id": "KP-FUT-001",
+      "stem": "团队想把客户投诉原文上传到未批准的公共 AI 工具做分类。PM first 应做什么？",
+      "options": {
+        "A": "立即上传，效率优先",
+        "B": "暂停并评估隐私、保密、政策和获批替代方案",
+        "C": "删除项目风险登记册",
+        "D": "只让实习生操作"
+      },
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "便利不能绕过数据治理"
+    },
+    {
+      "id": "KP-FUT-002",
+      "stem": "AI 建议删除两个质量检查点以缩短进度。最佳做法是？",
+      "options": {
+        "A": "按建议自动执行",
+        "B": "由有权限人员验证数据、风险、合规和价值后再决策",
+        "C": "因为是 AI 建议所以永久拒绝",
+        "D": "隐藏建议来源"
+      },
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Human oversight"
+    },
+    {
+      "id": "KP-FUT-003",
+      "stem": "供应商模型整体准确率高，但对少数语言用户错误率明显更高。项目经理应关注什么？",
+      "options": {
+        "A": "只看整体平均数",
+        "B": "群体偏差、公平影响及纠正和监控措施",
+        "C": "提高 Story Points",
+        "D": "把问题归为范围蔓延"
+      },
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "平均值掩盖偏差"
+    },
+    {
+      "id": "KP-FUT-004",
+      "stem": "两种材料初始价格不同：便宜材料在十年运营期能耗和更换频率更高。最佳比较方式是？",
+      "options": {
+        "A": "只比采购价",
+        "B": "比较全生命周期成本、环境社会影响、风险和价值",
+        "C": "只看项目工期",
+        "D": "由供应商自行决定"
+      },
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Lowest price vs Best value"
+    },
+    {
+      "id": "KP-FUT-005",
+      "stem": "项目宣称‘碳中和’，但没有说明组织边界、基线、数据来源和抵消方式。主要问题是？",
+      "options": {
+        "A": "文案不够简短",
+        "B": "指标不可审计，存在误导和绿色漂洗风险",
+        "C": "范围一定过大",
+        "D": "一定违反 Scrum"
+      },
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Greenwashing"
+    },
+    {
+      "id": "CH-PEO-001",
+      "stem": "虚拟团队成员因时区问题经常错过决定，并开始抵触项目。PM first 应做什么？",
+      "options": {
+        "A": "替换成员",
+        "B": "与相关成员了解沟通需求并共同调整沟通策略和反馈机制",
+        "C": "要求所有人按总部时间",
+        "D": "报告给客户"
+      },
+      "domain": "People",
+      "task": "P4/P8",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "先协作再升级"
+    },
+    {
+      "id": "CH-PEO-002",
+      "stem": "两位负责人对优先级冲突，双方都有合理数据。最佳长期做法是？",
+      "options": {
+        "A": "强迫其中一方接受",
+        "B": "促进双方围绕共同愿景和事实合作解决",
+        "C": "回避直到延期",
+        "D": "随机选择"
+      },
+      "domain": "People",
+      "task": "P1/P2",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Collaborate"
+    },
+    {
+      "id": "CH-PEO-003",
+      "stem": "新成员缺少关键技能但学习意愿高。PM 最合适的领导反应是？",
+      "options": {
+        "A": "直接解雇",
+        "B": "提供辅导、结对和清晰期望，并跟踪进展",
+        "C": "完全放任",
+        "D": "隐藏问题"
+      },
+      "domain": "People",
+      "task": "P3/P7",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Empower ≠ abandon"
+    },
+    {
+      "id": "CH-PEO-004",
+      "stem": "发起人与客户对成功含义不同。PM first 应？",
+      "options": {
+        "A": "采用发起人定义",
+        "B": "显化双方期望并促进讨论，形成可衡量的共同成功标准",
+        "C": "推迟到收尾",
+        "D": "由团队投票"
+      },
+      "domain": "People",
+      "task": "P1/P5/P6",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "不能单边承诺"
+    },
+    {
+      "id": "CH-PEO-005",
+      "stem": "项目即将移交，唯一架构师掌握未记录的关键知识。最佳措施是？",
+      "options": {
+        "A": "只要求上传旧邮件",
+        "B": "安排结对、演示、文档和接收方验证",
+        "C": "等离职后再处理",
+        "D": "把风险删除"
+      },
+      "domain": "People",
+      "task": "P7",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "上传文件 ≠ 转移完成"
+    },
+    {
+      "id": "CH-PEO-006",
+      "stem": "团队成员在回顾会上指出估算流程问题，主管当众责备他。PM 应优先保护什么？",
+      "options": {
+        "A": "主管权威",
+        "B": "心理安全和基于事实的改进讨论",
+        "C": "会议记录格式",
+        "D": "个人排名"
+      },
+      "domain": "People",
+      "task": "P3",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "不把回顾变成追责"
+    },
+    {
+      "id": "CH-PRO-001",
+      "stem": "客户正式拒收一个技术检验合格的交付物，因为未满足约定业务验收条件。说明什么？",
+      "options": {
+        "A": "Control Quality 可替代 Validate Scope",
+        "B": "技术正确不等于客户正式接受",
+        "C": "验收标准不重要",
+        "D": "必须取消项目"
+      },
+      "domain": "Process",
+      "task": "PR2/PR7",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "QC vs Validate Scope"
+    },
+    {
+      "id": "CH-PRO-002",
+      "stem": "关键路径活动延迟三天，总浮动为零。最直接影响是什么？",
+      "options": {
+        "A": "项目完工可能延迟三天，除非采取恢复措施",
+        "B": "一定不影响项目",
+        "C": "只影响成本",
+        "D": "自动改变范围"
+      },
+      "domain": "Process",
+      "task": "PR8",
+      "approach": "Predictive",
+      "difficulty": "易",
+      "trap": "关键路径"
+    },
+    {
+      "id": "CH-PRO-003",
+      "stem": "团队为了提高完成条目数，拆小 Story 并降低 DoD。哪个指标最可能被游戏化？",
+      "options": {
+        "A": "Velocity",
+        "B": "法规条款",
+        "C": "合同类型",
+        "D": "组织文化"
+      },
+      "domain": "Process",
+      "task": "PR9",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "指标成为目标"
+    },
+    {
+      "id": "CH-PRO-004",
+      "stem": "供应商报低价但有严重交付和劳工风险。选择时应？",
+      "options": {
+        "A": "只选最低价",
+        "B": "依据采购策略比较全寿命价值、风险、质量、合规与可持续性",
+        "C": "取消所有外购",
+        "D": "忽略历史绩效"
+      },
+      "domain": "Process",
+      "task": "PR5",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "最低价偏误"
+    },
+    {
+      "id": "CH-PRO-005",
+      "stem": "一个已识别风险发生后使用应急储备。哪项正确？",
+      "options": {
+        "A": "应急储备用于已识别风险，通常在成本基准内",
+        "B": "它等同管理储备",
+        "C": "无需记录",
+        "D": "一定要取消项目"
+      },
+      "domain": "Process",
+      "task": "PR6",
+      "approach": "Predictive",
+      "difficulty": "易",
+      "trap": "两类储备"
+    },
+    {
+      "id": "CH-PRO-006",
+      "stem": "开发团队希望用两周 Spike 调研未知技术。PO 应关注什么？",
+      "options": {
+        "A": "让研究无限持续",
+        "B": "明确时间盒、学习目标和将如何影响 Backlog 决策",
+        "C": "把 Spike 当作已交付价值",
+        "D": "取消验收标准"
+      },
+      "domain": "Process",
+      "task": "PR1/PR3",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "研究不是无限范围"
+    },
+    {
+      "id": "CH-BE-001",
+      "stem": "法规更新使当前方案明天起违法。PM first 应？",
+      "options": {
+        "A": "继续直到 CCB 月会",
+        "B": "立即保护人员/停止不合规活动，评估影响并按治理紧急升级和变更",
+        "C": "隐藏变化",
+        "D": "让供应商决定"
+      },
+      "domain": "Business Environment",
+      "task": "BE2/BE3/BE8",
+      "approach": "All",
+      "difficulty": "难",
+      "trap": "合规紧急例外"
+    },
+    {
+      "id": "CH-BE-002",
+      "stem": "市场已转向替代技术，项目商业价值大幅下降。治理委员会应获得什么？",
+      "options": {
+        "A": "只报告沉没成本",
+        "B": "更新的价值、风险、选项和建议，以支持继续/调整/终止决策",
+        "C": "只报告团队士气",
+        "D": "隐藏外部变化"
+      },
+      "domain": "Business Environment",
+      "task": "BE8",
+      "approach": "All",
+      "difficulty": "难",
+      "trap": "Sunk cost"
+    },
+    {
+      "id": "CH-BE-003",
+      "stem": "项目经理无权批准超过 5% 预算的变更。最合适做法是？",
+      "options": {
+        "A": "拆成小变更规避阈值",
+        "B": "完成影响分析并按升级路径提交授权机构",
+        "C": "自行批准",
+        "D": "让团队口头同意"
+      },
+      "domain": "Business Environment",
+      "task": "BE1/BE3",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "治理权限"
+    },
+    {
+      "id": "CH-BE-004",
+      "stem": "问题反复发生，团队每次只做临时修复。下一步应强化什么？",
+      "options": {
+        "A": "增加 Workaround 数量",
+        "B": "根因分析、持续改进和 OPA 更新",
+        "C": "减少透明度",
+        "D": "删除 Issue Log"
+      },
+      "domain": "Business Environment",
+      "task": "BE4/BE6",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "症状 vs 根因"
+    },
+    {
+      "id": "CH-BE-005",
+      "stem": "组织发布新流程但采用率低。哪项最有帮助？",
+      "options": {
+        "A": "只重复发送邮件",
+        "B": "评估文化和受影响角色，开展参与、培训、支持与采用度量",
+        "C": "宣布项目已成功",
+        "D": "把所有抵触者移除"
+      },
+      "domain": "Business Environment",
+      "task": "BE7",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "上线 ≠ 采用"
+    },
+    {
+      "id": "CH-BE-006",
+      "stem": "风险所有人已离开组织。PM best 应？",
+      "options": {
+        "A": "保留原名字以免修改",
+        "B": "重新分配有能力和权限的所有人，沟通并更新登记册",
+        "C": "删除风险",
+        "D": "等风险发生"
+      },
+      "domain": "Business Environment",
+      "task": "BE5",
+      "approach": "All",
+      "difficulty": "易",
+      "trap": "记录必须保持有效"
+    },
+    {
+      "id": "MOCK-A-001",
+      "stem": "混合项目的硬件供应商延期，软件团队仍可开发模拟接口。PM first 应？",
+      "options": {
+        "A": "让所有软件工作停止",
+        "B": "评估依赖、接口风险和可并行价值，更新综合计划",
+        "C": "立即终止供应商合同",
+        "D": "隐藏延期"
+      },
+      "domain": "Process",
+      "task": "PR1/PR5",
+      "approach": "Hybrid",
+      "difficulty": "难",
+      "trap": "局部问题需整体分析"
+    },
+    {
+      "id": "MOCK-A-002",
+      "stem": "客户要求团队在验收前跳过强制安全测试。PM 应？",
+      "options": {
+        "A": "满足客户",
+        "B": "拒绝绕过强制要求，说明影响并按合规治理处理",
+        "C": "让团队匿名决定",
+        "D": "测试后补文件"
+      },
+      "domain": "Business Environment",
+      "task": "BE2",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Customer value ≠ ignore compliance"
+    },
+    {
+      "id": "MOCK-A-003",
+      "stem": "团队连续三次 Sprint 未达 Goal，但 Velocity 上升。PM/敏捷领导最应关注？",
+      "options": {
+        "A": "只庆祝 Velocity",
+        "B": "与团队检查目标未达的根因、质量和价值，形成改进实验",
+        "C": "提高点数",
+        "D": "取消 Retrospective"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "难",
+      "trap": "Vanity metric"
+    },
+    {
+      "id": "MOCK-A-004",
+      "stem": "发起人要求 PM 隐瞒预测超支直到下一季度。PM 应？",
+      "options": {
+        "A": "遵从",
+        "B": "依据伦理和治理透明报告准确状态及恢复选项",
+        "C": "修改 AC",
+        "D": "删除成本基准"
+      },
+      "domain": "Business Environment",
+      "task": "BE1",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "Ethics"
+    },
+    {
+      "id": "MOCK-A-005",
+      "stem": "合同目标已满足，但供应商提出未决索赔。项目可否直接关闭采购？",
+      "options": {
+        "A": "可以，产品已交付",
+        "B": "不应；需按合同和治理解决/记录索赔并完成采购收尾",
+        "C": "只需口头承诺",
+        "D": "删除索赔"
+      },
+      "domain": "Process",
+      "task": "PR5/PR10",
+      "approach": "Predictive",
+      "difficulty": "中",
+      "trap": "交付 ≠ 合同收尾"
+    },
+    {
+      "id": "MOCK-A-006",
+      "stem": "AI 自动生成周报，把未验证预测写成事实。最佳纠正是？",
+      "options": {
+        "A": "继续自动发送",
+        "B": "增加来源标注、验证、审批和不确定性表达",
+        "C": "停止所有 AI 永久使用",
+        "D": "隐藏模型版本"
+      },
+      "domain": "AI",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "Prediction ≠ fact"
+    },
+    {
+      "id": "MOCK-A-007",
+      "stem": "一位高权力低兴趣干系人突然反对项目。团队最先查看什么？",
+      "options": {
+        "A": "仅 WBS",
+        "B": "Stakeholder Register、参与策略和最近环境变化",
+        "C": "只看成本报告",
+        "D": "删除其姓名"
+      },
+      "domain": "People",
+      "task": "P4/P5",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "分类会变化"
+    },
+    {
+      "id": "MOCK-A-008",
+      "stem": "项目完成 70%，新证据表明预期收益不再成立。最佳做法？",
+      "options": {
+        "A": "因已完成 70% 必须继续",
+        "B": "更新商业论证与选项，提交治理层价值决策",
+        "C": "隐藏证据",
+        "D": "增加范围制造收益"
+      },
+      "domain": "Business Environment",
+      "task": "BE8",
+      "approach": "All",
+      "difficulty": "难",
+      "trap": "Sunk cost fallacy"
+    },
+    {
+      "id": "MOCK-A-009",
+      "stem": "控制图出现连续七点在中心线同一侧，但仍在控制界限内。应怎样理解？",
+      "options": {
+        "A": "过程一定稳定",
+        "B": "存在非随机模式，应调查特殊原因",
+        "C": "产品必然不合格",
+        "D": "这是范围变更"
+      },
+      "domain": "Process",
+      "task": "PR7",
+      "approach": "Predictive",
+      "difficulty": "难",
+      "trap": "Control limit vs specification"
+    },
+    {
+      "id": "MOCK-A-010",
+      "stem": "PO 与监管负责人对功能顺序有冲突。最合适？",
+      "options": {
+        "A": "PO 忽略法规",
+        "B": "把强制合规作为约束，与双方基于价值和风险重排 Backlog",
+        "C": "Scrum Master 独自定优先级",
+        "D": "开发人员隐藏需求"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "难",
+      "trap": "PO 权限有治理边界"
+    },
+    {
+      "id": "MOCK-A-011",
+      "stem": "项目移交后运营团队不会处理关键告警。PM 应在关闭前？",
+      "options": {
+        "A": "只归档代码",
+        "B": "验证培训、运行手册、演练、权限和支持责任",
+        "C": "立即释放所有人员",
+        "D": "把告警设为低优先级"
+      },
+      "domain": "Process",
+      "task": "PR10",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "文档 ≠ readiness"
+    },
+    {
+      "id": "MOCK-A-012",
+      "stem": "为达到可持续采购目标，团队选择本地供应商，但其质量能力未经验证。最佳做法？",
+      "options": {
+        "A": "可持续目标自动覆盖质量",
+        "B": "综合评估质量、风险、合规、全寿命价值并制定能力/合同措施",
+        "C": "只按距离决定",
+        "D": "取消可持续目标"
+      },
+      "domain": "Sustainability",
+      "task": "Cross-cutting",
+      "approach": "All",
+      "difficulty": "难",
+      "trap": "Single-metric optimization"
+    },
+    {
+      "id": "MOCK-A-013",
+      "stem": "团队成员发现章程中的成功指标互相矛盾。PM first？",
+      "options": {
+        "A": "选择最容易的指标",
+        "B": "与发起人和关键干系人澄清并对齐可衡量标准",
+        "C": "等收尾再解释",
+        "D": "让 AI 随机选择"
+      },
+      "domain": "People",
+      "task": "P1/P5",
+      "approach": "All",
+      "difficulty": "中",
+      "trap": "冲突指标不能拖延"
+    },
+    {
+      "id": "MOCK-A-014",
+      "stem": "Sprint 中关键缺陷威胁 Sprint Goal。Developers 应？",
+      "options": {
+        "A": "等待下次 Sprint",
+        "B": "立即协作处理，与 PO 讨论范围/目标影响并保持透明",
+        "C": "让 PM 单独修复",
+        "D": "隐藏缺陷保证 Velocity"
+      },
+      "domain": "Agile",
+      "task": "Cross-cutting",
+      "approach": "Agile",
+      "difficulty": "中",
+      "trap": "质量不能隐藏"
+    },
+    {
+      "id": "MOCK-A-015",
+      "stem": "某风险概率低但一旦发生将造成严重人员伤害。仅按概率排序会怎样？",
+      "options": {
+        "A": "足够",
+        "B": "可能低估风险；应考虑影响、紧迫性、阈值和合规",
+        "C": "自动转为机会",
+        "D": "不需要所有人"
+      },
+      "domain": "Business Environment",
+      "task": "BE2/BE5",
+      "approach": "All",
+      "difficulty": "难",
+      "trap": "Probability-only bias"
+    }
+  ],
+  "cases": [
+    {
+      "id": "CASE-PRED-01",
+      "title": "医院影像中心改造",
+      "domain": "Process",
+      "approach": "Predictive",
+      "scenario": "医院必须在法定停机窗口内更换影像设备。施工范围稳定，但临时提出增加候诊区屏幕。",
+      "prompts": [
+        "这是变更还是缺陷？",
+        "PM 的 first action？",
+        "哪些基准和风险需分析？"
+      ],
+      "tags": "Change, Compliance, Schedule"
+    },
+    {
+      "id": "CASE-PRED-02",
+      "title": "数据中心关键路径",
+      "domain": "Process",
+      "approach": "Predictive",
+      "scenario": "两条网络路径之一总工期 38 天且浮动为零；设备到货延迟 4 天。",
+      "prompts": [
+        "最可能的工期影响？",
+        "比较 Crashing 与 Fast Tracking。",
+        "应向谁报告什么？"
+      ],
+      "tags": "Critical Path, Compression"
+    },
+    {
+      "id": "CASE-PRED-03",
+      "title": "固定总价供应商",
+      "domain": "Process",
+      "approach": "Predictive",
+      "scenario": "固定总价合同的供应商称原材料上涨，要求额外付款，否则减配。",
+      "prompts": [
+        "风险主要由谁承担？",
+        "先查看哪些合同事实？",
+        "何时升级？"
+      ],
+      "tags": "Procurement, Quality"
+    },
+    {
+      "id": "CASE-PRED-04",
+      "title": "正式验收与运营移交",
+      "domain": "Process",
+      "approach": "Predictive",
+      "scenario": "系统通过测试，业务负责人未签验收，运营团队也没有管理员账号。发起人要求立即关闭。",
+      "prompts": [
+        "哪些关闭条件未满足？",
+        "需要哪些证据？",
+        "收益责任如何移交？"
+      ],
+      "tags": "Acceptance, Transition"
+    },
+    {
+      "id": "CASE-PRED-05",
+      "title": "安全法规变化",
+      "domain": "Business Environment",
+      "approach": "Predictive",
+      "scenario": "施工中法规立即提高高空作业标准，现有方案不合规。",
+      "prompts": [
+        "是否先等 CCB？",
+        "如何处理紧急性与治理？",
+        "哪些记录更新？"
+      ],
+      "tags": "Compliance, Change"
+    },
+    {
+      "id": "CASE-AGILE-01",
+      "title": "支付产品新需求",
+      "domain": "Process",
+      "approach": "Agile",
+      "scenario": "Sprint 第四天，销售要求加入大客户折扣功能，当前 Sprint Goal 是修复结算稳定性。",
+      "prompts": [
+        "谁排序？",
+        "是否中断 Sprint？",
+        "如何保持价值透明？"
+      ],
+      "tags": "PO, Backlog, Sprint Goal"
+    },
+    {
+      "id": "CASE-AGILE-02",
+      "title": "Daily Scrum 变汇报会",
+      "domain": "People",
+      "approach": "Agile",
+      "scenario": "团队每天向经理逐人汇报，成员之间不协作，阻塞持续三天。",
+      "prompts": [
+        "Daily Scrum 的目的？",
+        "Scrum Master 如何介入？",
+        "怎样验证改进？"
+      ],
+      "tags": "Servant Leadership, Daily Scrum"
+    },
+    {
+      "id": "CASE-AGILE-03",
+      "title": "DoD 被降低",
+      "domain": "Process",
+      "approach": "Agile",
+      "scenario": "为提高 Velocity，团队删除安全扫描和代码评审，点数显著上升。",
+      "prompts": [
+        "指标是否改善？",
+        "有哪些风险？",
+        "Retrospective 应形成什么？"
+      ],
+      "tags": "DoD, Metrics, Quality"
+    },
+    {
+      "id": "CASE-AGILE-04",
+      "title": "看板瓶颈",
+      "domain": "Process",
+      "approach": "Agile",
+      "scenario": "测试列 WIP 已达上限，开发列仍不断开始新任务。",
+      "prompts": [
+        "团队下一步？",
+        "为什么利用率思维会伤害流动？",
+        "用什么指标验证？"
+      ],
+      "tags": "Kanban, WIP"
+    },
+    {
+      "id": "CASE-AGILE-05",
+      "title": "Review 与 Retro 混淆",
+      "domain": "People",
+      "approach": "Agile",
+      "scenario": "团队在 Sprint Review 内部讨论成员配合问题，没有邀请关键用户。",
+      "prompts": [
+        "两个事件焦点分别是什么？",
+        "如何重设参与？",
+        "产品反馈在哪里处理？"
+      ],
+      "tags": "Review, Retrospective"
+    },
+    {
+      "id": "CASE-HYB-01",
+      "title": "智慧工厂",
+      "domain": "Process",
+      "approach": "Hybrid",
+      "scenario": "厂房改造必须按固定里程碑施工，AI 排产界面需每两周验证。",
+      "prompts": [
+        "如何拆分方法？",
+        "主要接口风险？",
+        "怎样统一报告？"
+      ],
+      "tags": "Hybrid, Interfaces, AI"
+    },
+    {
+      "id": "CASE-HYB-02",
+      "title": "政府门户",
+      "domain": "Business Environment",
+      "approach": "Hybrid",
+      "scenario": "合同要求阶段门和固定预算，公众服务功能需求仍在探索。",
+      "prompts": [
+        "哪些内容基准化？",
+        "哪些进入 Backlog？",
+        "变化如何过治理？"
+      ],
+      "tags": "Governance, Backlog"
+    },
+    {
+      "id": "CASE-HYB-03",
+      "title": "多供应商集成",
+      "domain": "Process",
+      "approach": "Hybrid",
+      "scenario": "硬件供应商按月报告百分比，软件团队按 Sprint 交付，接口规格不断变化。",
+      "prompts": [
+        "为什么双重报告不足？",
+        "建立哪些共同工件？",
+        "如何管理变更？"
+      ],
+      "tags": "Vendor, Integration"
+    },
+    {
+      "id": "CASE-HYB-04",
+      "title": "滚动式规划误解",
+      "domain": "People",
+      "approach": "Hybrid",
+      "scenario": "治理层认为远期计划不详细就是团队没有计划。",
+      "prompts": [
+        "如何解释 Rolling Wave？",
+        "哪些长期内容仍需清晰？",
+        "怎样建立信任？"
+      ],
+      "tags": "Rolling Wave, Communication"
+    },
+    {
+      "id": "CASE-HYB-05",
+      "title": "敏捷绕过合规",
+      "domain": "Business Environment",
+      "approach": "Hybrid",
+      "scenario": "团队称自己敏捷，因此不记录隐私影响评估。",
+      "prompts": [
+        "哪里错误？",
+        "如何裁剪而非删除证据？",
+        "谁负责监督？"
+      ],
+      "tags": "Compliance, Tailoring"
+    },
+    {
+      "id": "CASE-FUT-01",
+      "title": "AI 风险预测",
+      "domain": "AI",
+      "approach": "Hybrid",
+      "scenario": "模型预测供应商违约概率 82%，但训练数据来自另一个国家。",
+      "prompts": [
+        "验证什么？",
+        "是否立即终止合同？",
+        "如何表达不确定性？"
+      ],
+      "tags": "AI Validation, Procurement"
+    },
+    {
+      "id": "CASE-FUT-02",
+      "title": "客户数据摘要",
+      "domain": "AI",
+      "approach": "Agile",
+      "scenario": "团队用生成式 AI 总结访谈，摘要漏掉无障碍用户的核心需求。",
+      "prompts": [
+        "风险类型？",
+        "如何纠正？",
+        "Backlog 受到什么影响？"
+      ],
+      "tags": "Bias, Stakeholders"
+    },
+    {
+      "id": "CASE-FUT-03",
+      "title": "低碳材料选择",
+      "domain": "Sustainability",
+      "approach": "Predictive",
+      "scenario": "材料 A 便宜但运营能耗高；B 初始贵 12% 但十年排放和维护低。",
+      "prompts": [
+        "比较框架？",
+        "哪些指标？",
+        "预算阈值如何处理？"
+      ],
+      "tags": "Life-cycle, Finance"
+    },
+    {
+      "id": "CASE-FUT-04",
+      "title": "供应链劳工风险",
+      "domain": "Sustainability",
+      "approach": "All",
+      "scenario": "关键供应商价格最低，但审计发现高概率劳工违规。",
+      "prompts": [
+        "仅因低价能否选择？",
+        "要采取什么尽调？",
+        "如何记录风险与合同要求？"
+      ],
+      "tags": "Social Impact, Procurement"
+    },
+    {
+      "id": "CASE-FUT-05",
+      "title": "AI 自动批准变更",
+      "domain": "AI",
+      "approach": "Predictive",
+      "scenario": "公司计划让 AI 对低于 2% 成本的变更自动批准。",
+      "prompts": [
+        "需要哪些治理边界？",
+        "哪些变更不能仅按成本判断？",
+        "如何监控？"
+      ],
+      "tags": "AI Governance, Change"
+    }
+  ],
+  "questionMappings": [
+    {
+      "contentId": "KP-FOUND-001",
+      "knowledgeId": "KP-002",
+      "role": "primary",
+      "weight": 0.8,
+      "reason": "判断限时但重复维持业务的运营活动",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-001",
+      "knowledgeId": "KP-001",
+      "role": "secondary",
+      "weight": 0.2,
+      "reason": "同时检验项目与运营边界",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-002",
+      "knowledgeId": "KP-001",
+      "role": "primary",
+      "weight": 0.8,
+      "reason": "判断创造独特成果并完成移交的项目",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-002",
+      "knowledgeId": "KP-002",
+      "role": "secondary",
+      "weight": 0.2,
+      "reason": "同时检验项目与运营边界",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-003",
+      "knowledgeId": "KP-001",
+      "role": "primary",
+      "weight": 0.8,
+      "reason": "辨析重复举办与单次项目的独特性",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-003",
+      "knowledgeId": "KP-002",
+      "role": "secondary",
+      "weight": 0.2,
+      "reason": "同时检验重复与运营的边界",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-004",
+      "knowledgeId": "KP-006",
+      "role": "primary",
+      "weight": 0.6,
+      "reason": "区分交付物与实际成果",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-004",
+      "knowledgeId": "KP-007",
+      "role": "secondary",
+      "weight": 0.4,
+      "reason": "采用率影响收益实现",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FOUND-005",
+      "knowledgeId": "KP-010",
+      "role": "primary",
+      "weight": 1,
+      "reason": "根据稳定监管工作与迭代界面工作选择混合型",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-RISK-001",
+      "knowledgeId": "KP-139",
+      "role": "primary",
+      "weight": 1,
+      "reason": "风险触发后转为已发生问题",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-RISK-002",
+      "knowledgeId": "KP-147",
+      "role": "primary",
+      "weight": 1,
+      "reason": "保险属于威胁转移",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-RISK-003",
+      "knowledgeId": "KP-153",
+      "role": "primary",
+      "weight": 1,
+      "reason": "识别风险响应引发的次生风险",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-RISK-004",
+      "knowledgeId": "KP-140",
+      "role": "primary",
+      "weight": 1,
+      "reason": "未识别且无预案问题使用权变措施",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-RISK-005",
+      "knowledgeId": "KP-152",
+      "role": "primary",
+      "weight": 1,
+      "reason": "超出项目权限的风险应升级",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-CHANGE-001",
+      "knowledgeId": "KP-133",
+      "role": "primary",
+      "weight": 1,
+      "reason": "小变更也应先做影响分析",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-CHANGE-002",
+      "knowledgeId": "KP-134",
+      "role": "primary",
+      "weight": 1,
+      "reason": "批准后仍需更新计划并受控实施",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-CHANGE-003",
+      "knowledgeId": "KP-136",
+      "role": "primary",
+      "weight": 1,
+      "reason": "敏捷新需求进入待办并由 PO 排序",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-CHANGE-004",
+      "knowledgeId": "KP-066",
+      "role": "primary",
+      "weight": 1,
+      "reason": "通过可用增量提前交付价值",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-CHANGE-005",
+      "knowledgeId": "KP-067",
+      "role": "primary",
+      "weight": 1,
+      "reason": "辨析 MVP 与最低质量产品",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-AGILE-001",
+      "knowledgeId": "KP-022",
+      "role": "primary",
+      "weight": 1,
+      "reason": "服务型领导促进自组织而非分派任务",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-AGILE-002",
+      "knowledgeId": "KP-171",
+      "role": "primary",
+      "weight": 1,
+      "reason": "DoD 是增量共同质量门槛",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-AGILE-003",
+      "knowledgeId": "KP-176",
+      "role": "primary",
+      "weight": 1,
+      "reason": "Sprint Review 检查成果与环境并调整 Backlog",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-AGILE-004",
+      "knowledgeId": "KP-182",
+      "role": "primary",
+      "weight": 1,
+      "reason": "达到 WIP 上限后先完成在制工作",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-AGILE-005",
+      "knowledgeId": "KP-179",
+      "role": "primary",
+      "weight": 1,
+      "reason": "故事点是团队内部相对估算",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-EVM-001",
+      "knowledgeId": "KP-086",
+      "role": "primary",
+      "weight": 0.5,
+      "reason": "根据 EV 与 AC 判断成本偏差",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-EVM-001",
+      "knowledgeId": "KP-087",
+      "role": "secondary",
+      "weight": 0.5,
+      "reason": "根据 EV 与 PV 判断进度偏差",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-EVM-002",
+      "knowledgeId": "KP-104",
+      "role": "primary",
+      "weight": 1,
+      "reason": "压缩工期前先识别关键路径",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-EVM-003",
+      "knowledgeId": "KP-071",
+      "role": "primary",
+      "weight": 1,
+      "reason": "资源平衡可能改变关键路径和工期",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-EVM-004",
+      "knowledgeId": "KP-090",
+      "role": "primary",
+      "weight": 1,
+      "reason": "按成本效率持续假设选择 EAC",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-EVM-005",
+      "knowledgeId": "KP-104",
+      "role": "primary",
+      "weight": 1,
+      "reason": "关键路径由最长路径而非单项活动决定",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FUT-001",
+      "knowledgeId": "KP-198",
+      "role": "primary",
+      "weight": 1,
+      "reason": "敏感客户数据必须按批准工具和隐私规则处理",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FUT-002",
+      "knowledgeId": "KP-194",
+      "role": "primary",
+      "weight": 1,
+      "reason": "高影响 AI 建议需要有权限的人审查",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FUT-003",
+      "knowledgeId": "KP-197",
+      "role": "primary",
+      "weight": 1,
+      "reason": "群体错误率差异属于算法偏差风险",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FUT-004",
+      "knowledgeId": "KP-203",
+      "role": "primary",
+      "weight": 1,
+      "reason": "材料决策应采用全生命周期思维",
+      "reviewed": true
+    },
+    {
+      "contentId": "KP-FUT-005",
+      "knowledgeId": "KP-206",
+      "role": "primary",
+      "weight": 1,
+      "reason": "碳声明需要边界、基线和数据来源",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PEO-001",
+      "knowledgeId": "KP-041",
+      "role": "primary",
+      "weight": 1,
+      "reason": "虚拟团队需调整沟通对象、渠道和节奏",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PEO-002",
+      "knowledgeId": "KP-016",
+      "role": "primary",
+      "weight": 1,
+      "reason": "有合理数据的优先级冲突宜合作解决",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PEO-003",
+      "knowledgeId": "KP-023",
+      "role": "primary",
+      "weight": 1,
+      "reason": "按能力和意愿调整领导方式",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PEO-004",
+      "knowledgeId": "KP-035",
+      "role": "primary",
+      "weight": 1,
+      "reason": "先显化并对齐成功期望",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PEO-005",
+      "knowledgeId": "KP-038",
+      "role": "primary",
+      "weight": 1,
+      "reason": "关键隐性知识需完成可验证转移",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PEO-006",
+      "knowledgeId": "KP-025",
+      "role": "primary",
+      "weight": 1,
+      "reason": "回顾需要心理安全而非公开追责",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PRO-001",
+      "knowledgeId": "KP-061",
+      "role": "primary",
+      "weight": 1,
+      "reason": "技术核实不替代客户正式验收",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PRO-002",
+      "knowledgeId": "KP-104",
+      "role": "primary",
+      "weight": 1,
+      "reason": "零浮动关键路径活动直接影响工期",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PRO-003",
+      "knowledgeId": "KP-113",
+      "role": "primary",
+      "weight": 1,
+      "reason": "单一产出指标会被游戏化并损害质量",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PRO-004",
+      "knowledgeId": "KP-205",
+      "role": "primary",
+      "weight": 1,
+      "reason": "采购决策需纳入交付与劳工风险",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PRO-005",
+      "knowledgeId": "KP-081",
+      "role": "primary",
+      "weight": 1,
+      "reason": "已识别风险使用应急储备",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-PRO-006",
+      "knowledgeId": "KP-186",
+      "role": "primary",
+      "weight": 1,
+      "reason": "Spike 应限时并以降低不确定性为目标",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-BE-001",
+      "knowledgeId": "KP-127",
+      "role": "primary",
+      "weight": 1,
+      "reason": "强制法规变化构成立即合规行动",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-BE-002",
+      "knowledgeId": "KP-163",
+      "role": "primary",
+      "weight": 1,
+      "reason": "商业价值变化应重新评估战略一致性",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-BE-003",
+      "knowledgeId": "KP-125",
+      "role": "primary",
+      "weight": 1,
+      "reason": "超过权限阈值应走既定升级路径",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-BE-004",
+      "knowledgeId": "KP-157",
+      "role": "primary",
+      "weight": 1,
+      "reason": "反复问题需要根因分析",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-BE-005",
+      "knowledgeId": "KP-161",
+      "role": "primary",
+      "weight": 1,
+      "reason": "组织流程上线后仍需促进和度量采用",
+      "reviewed": true
+    },
+    {
+      "contentId": "CH-BE-006",
+      "knowledgeId": "KP-142",
+      "role": "primary",
+      "weight": 1,
+      "reason": "风险登记册责任人和状态必须持续有效",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-001",
+      "knowledgeId": "KP-189",
+      "role": "primary",
+      "weight": 1,
+      "reason": "混合团队需整体分析接口依赖",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-002",
+      "knowledgeId": "KP-127",
+      "role": "primary",
+      "weight": 1,
+      "reason": "客户价值不能绕过强制安全合规",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-003",
+      "knowledgeId": "KP-113",
+      "role": "primary",
+      "weight": 1,
+      "reason": "速度上升不能替代 Sprint Goal 等有效指标",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-004",
+      "knowledgeId": "KP-126",
+      "role": "primary",
+      "weight": 1,
+      "reason": "应诚实披露预测而非隐瞒超支",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-005",
+      "knowledgeId": "KP-120",
+      "role": "primary",
+      "weight": 1,
+      "reason": "未决索赔完成前不能关闭采购",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-006",
+      "knowledgeId": "KP-195",
+      "role": "primary",
+      "weight": 1,
+      "reason": "AI 预测必须验证并明确为预测",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-007",
+      "knowledgeId": "KP-031",
+      "role": "primary",
+      "weight": 1,
+      "reason": "干系人权力和兴趣分类需持续更新",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-008",
+      "knowledgeId": "KP-163",
+      "role": "primary",
+      "weight": 1,
+      "reason": "收益不再成立时应重新审查战略一致性",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-009",
+      "knowledgeId": "KP-099",
+      "role": "primary",
+      "weight": 1,
+      "reason": "控制界限内的非随机模式仍需调查",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-010",
+      "knowledgeId": "KP-165",
+      "role": "primary",
+      "weight": 0.7,
+      "reason": "PO 负责价值排序",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-010",
+      "knowledgeId": "KP-121",
+      "role": "secondary",
+      "weight": 0.3,
+      "reason": "监管要求形成治理边界",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-011",
+      "knowledgeId": "KP-119",
+      "role": "primary",
+      "weight": 1,
+      "reason": "关闭前应验证运营移交准备度",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-012",
+      "knowledgeId": "KP-205",
+      "role": "primary",
+      "weight": 1,
+      "reason": "可持续采购不能只优化单一指标",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-013",
+      "knowledgeId": "KP-124",
+      "role": "primary",
+      "weight": 1,
+      "reason": "互相矛盾的成功指标必须及时澄清",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-014",
+      "knowledgeId": "KP-167",
+      "role": "primary",
+      "weight": 1,
+      "reason": "Developers 应围绕 Sprint Goal 透明调整计划",
+      "reviewed": true
+    },
+    {
+      "contentId": "MOCK-A-015",
+      "knowledgeId": "KP-144",
+      "role": "primary",
+      "weight": 1,
+      "reason": "定性分析不能只看概率而忽略严重影响",
+      "reviewed": true
+    }
+  ],
+  "caseMappings": [
+    {
+      "contentId": "CASE-PRED-01",
+      "knowledgeId": "KP-134",
+      "role": "primary",
+      "weight": 0.6,
+      "reason": "正式变更需受控审查和实施",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-01",
+      "knowledgeId": "KP-133",
+      "role": "secondary",
+      "weight": 0.4,
+      "reason": "需分析范围进度成本安全影响",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-02",
+      "knowledgeId": "KP-104",
+      "role": "primary",
+      "weight": 0.5,
+      "reason": "先确认关键路径影响",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-02",
+      "knowledgeId": "KP-106",
+      "role": "secondary",
+      "weight": 0.25,
+      "reason": "比较赶工成本",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-02",
+      "knowledgeId": "KP-107",
+      "role": "secondary",
+      "weight": 0.25,
+      "reason": "比较快速跟进风险",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-03",
+      "knowledgeId": "KP-074",
+      "role": "primary",
+      "weight": 1,
+      "reason": "固定总价合同下成本风险及变更处理",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-04",
+      "knowledgeId": "KP-118",
+      "role": "primary",
+      "weight": 0.4,
+      "reason": "尚未取得正式验收",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-04",
+      "knowledgeId": "KP-119",
+      "role": "secondary",
+      "weight": 0.35,
+      "reason": "运营尚未准备接管",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-04",
+      "knowledgeId": "KP-120",
+      "role": "secondary",
+      "weight": 0.25,
+      "reason": "收尾条件尚未满足",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-PRED-05",
+      "knowledgeId": "KP-127",
+      "role": "primary",
+      "weight": 1,
+      "reason": "立即生效的安全法规属于强制合规",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-01",
+      "knowledgeId": "KP-136",
+      "role": "primary",
+      "weight": 1,
+      "reason": "Sprint 中新需求进入未来 Backlog 排序",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-02",
+      "knowledgeId": "KP-175",
+      "role": "primary",
+      "weight": 0.6,
+      "reason": "Daily Scrum 用于 Developers 检查目标并调整计划",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-02",
+      "knowledgeId": "KP-022",
+      "role": "secondary",
+      "weight": 0.4,
+      "reason": "领导者应移除障碍并促进自组织",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-03",
+      "knowledgeId": "KP-171",
+      "role": "primary",
+      "weight": 1,
+      "reason": "不能为提高速度而降低 DoD",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-04",
+      "knowledgeId": "KP-182",
+      "role": "primary",
+      "weight": 1,
+      "reason": "WIP 上限用于暴露瓶颈并改善流动",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-05",
+      "knowledgeId": "KP-176",
+      "role": "primary",
+      "weight": 0.5,
+      "reason": "Review 与干系人检查产品和环境",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-AGILE-05",
+      "knowledgeId": "KP-177",
+      "role": "secondary",
+      "weight": 0.5,
+      "reason": "Retro 用于团队过程改进",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-HYB-01",
+      "knowledgeId": "KP-187",
+      "role": "primary",
+      "weight": 1,
+      "reason": "固定施工与迭代界面需要统一混合治理",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-HYB-02",
+      "knowledgeId": "KP-188",
+      "role": "primary",
+      "weight": 1,
+      "reason": "固定阶段门下使用敏捷交付探索需求",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-HYB-03",
+      "knowledgeId": "KP-189",
+      "role": "primary",
+      "weight": 1,
+      "reason": "不同交付方法间必须管理接口依赖",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-HYB-04",
+      "knowledgeId": "KP-192",
+      "role": "primary",
+      "weight": 1,
+      "reason": "近期详细远期高层是滚动式规划",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-HYB-05",
+      "knowledgeId": "KP-127",
+      "role": "primary",
+      "weight": 1,
+      "reason": "敏捷方法不豁免隐私合规记录",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-01",
+      "knowledgeId": "KP-196",
+      "role": "primary",
+      "weight": 0.6,
+      "reason": "跨国家数据代表性与质量需验证",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-01",
+      "knowledgeId": "KP-195",
+      "role": "secondary",
+      "weight": 0.4,
+      "reason": "模型预测必须交叉验证",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-02",
+      "knowledgeId": "KP-197",
+      "role": "primary",
+      "weight": 0.6,
+      "reason": "遗漏无障碍用户体现群体偏差",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-02",
+      "knowledgeId": "KP-195",
+      "role": "secondary",
+      "weight": 0.4,
+      "reason": "生成摘要必须验证",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-03",
+      "knowledgeId": "KP-203",
+      "role": "primary",
+      "weight": 1,
+      "reason": "比较材料全生命周期成本与排放",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-04",
+      "knowledgeId": "KP-205",
+      "role": "primary",
+      "weight": 1,
+      "reason": "采购需纳入供应链劳工风险",
+      "reviewed": true
+    },
+    {
+      "contentId": "CASE-FUT-05",
+      "knowledgeId": "KP-194",
+      "role": "primary",
+      "weight": 1,
+      "reason": "AI 不应替代有权限的人批准变更",
+      "reviewed": true
+    }
+  ]
+}

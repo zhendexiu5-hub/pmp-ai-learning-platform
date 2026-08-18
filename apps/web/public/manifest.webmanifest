@@ -1,0 +1,9 @@
+{
+  "name": "RUNLOOP AI教学课堂",
+  "short_name": "RUNLOOP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#0b5fc6",
+  "lang": "zh-CN"
+}

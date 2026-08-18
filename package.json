@@ -1,0 +1,22 @@
+{
+  "name": "pmp-ai-learning-platform",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.19.0",
+  "scripts": {
+    "build": "pnpm content:build && pnpm --filter @pmp/web build",
+    "check": "pnpm content:check && pnpm --filter @pmp/web check",
+    "content:build": "pnpm --filter @pmp/content build",
+    "content:check": "pnpm --filter @pmp/content check",
+    "dev": "pnpm content:build && pnpm --filter @pmp/web dev",
+    "preview": "pnpm --filter @pmp/web preview",
+    "test": "pnpm content:check && pnpm --filter @pmp/web test",
+    "types": "pnpm --filter @pmp/web types",
+    "user:create": "tsx scripts/create-alpha-user.ts"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "tsx": "4.23.12",
+    "typescript": "7.0.2"
+  }
+}

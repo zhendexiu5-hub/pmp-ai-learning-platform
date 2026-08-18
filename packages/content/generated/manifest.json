@@ -1,0 +1,18 @@
+{
+  "version": "private-alpha-v1",
+  "source": "08_来源与版本/library_data.json",
+  "sourceSha256": "13afb35610e222df235cb034d363ea22e5d02092eb17046f851bbb08e0ebdb88",
+  "counts": {
+    "knowledge": 209,
+    "questions": 63,
+    "cases": 20,
+    "mappedQuestions": 63,
+    "mappedCases": 20,
+    "coverage": {
+      "teachable": 2,
+      "index_only": 140,
+      "brief": 67
+    }
+  },
+  "answerLeakage": "passed"
+}

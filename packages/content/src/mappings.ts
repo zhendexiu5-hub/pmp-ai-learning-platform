@@ -1,0 +1,113 @@
+export type Mapping = {
+  contentId: string;
+  knowledgeId: string;
+  role: "primary" | "secondary";
+  weight: number;
+  reason: string;
+  reviewed: true;
+};
+
+const one = (contentId: string, knowledgeId: string, reason: string): Mapping[] => [
+  { contentId, knowledgeId, role: "primary", weight: 1, reason, reviewed: true },
+];
+
+const many = (
+  contentId: string,
+  entries: Array<[string, "primary" | "secondary", number, string]>,
+): Mapping[] => entries.map(([knowledgeId, role, weight, reason]) => ({
+  contentId,
+  knowledgeId,
+  role,
+  weight,
+  reason,
+  reviewed: true,
+}));
+
+export const questionMappings: Mapping[] = [
+  ...many("KP-FOUND-001", [["KP-002", "primary", 0.8, "判断限时但重复维持业务的运营活动"], ["KP-001", "secondary", 0.2, "同时检验项目与运营边界"]]),
+  ...many("KP-FOUND-002", [["KP-001", "primary", 0.8, "判断创造独特成果并完成移交的项目"], ["KP-002", "secondary", 0.2, "同时检验项目与运营边界"]]),
+  ...many("KP-FOUND-003", [["KP-001", "primary", 0.8, "辨析重复举办与单次项目的独特性"], ["KP-002", "secondary", 0.2, "同时检验重复与运营的边界"]]),
+  ...many("KP-FOUND-004", [["KP-006", "primary", 0.6, "区分交付物与实际成果"], ["KP-007", "secondary", 0.4, "采用率影响收益实现"]]),
+  ...one("KP-FOUND-005", "KP-010", "根据稳定监管工作与迭代界面工作选择混合型"),
+  ...one("KP-RISK-001", "KP-139", "风险触发后转为已发生问题"),
+  ...one("KP-RISK-002", "KP-147", "保险属于威胁转移"),
+  ...one("KP-RISK-003", "KP-153", "识别风险响应引发的次生风险"),
+  ...one("KP-RISK-004", "KP-140", "未识别且无预案问题使用权变措施"),
+  ...one("KP-RISK-005", "KP-152", "超出项目权限的风险应升级"),
+  ...one("KP-CHANGE-001", "KP-133", "小变更也应先做影响分析"),
+  ...one("KP-CHANGE-002", "KP-134", "批准后仍需更新计划并受控实施"),
+  ...one("KP-CHANGE-003", "KP-136", "敏捷新需求进入待办并由 PO 排序"),
+  ...one("KP-CHANGE-004", "KP-066", "通过可用增量提前交付价值"),
+  ...one("KP-CHANGE-005", "KP-067", "辨析 MVP 与最低质量产品"),
+  ...one("KP-AGILE-001", "KP-022", "服务型领导促进自组织而非分派任务"),
+  ...one("KP-AGILE-002", "KP-171", "DoD 是增量共同质量门槛"),
+  ...one("KP-AGILE-003", "KP-176", "Sprint Review 检查成果与环境并调整 Backlog"),
+  ...one("KP-AGILE-004", "KP-182", "达到 WIP 上限后先完成在制工作"),
+  ...one("KP-AGILE-005", "KP-179", "故事点是团队内部相对估算"),
+  ...many("KP-EVM-001", [["KP-086", "primary", 0.5, "根据 EV 与 AC 判断成本偏差"], ["KP-087", "secondary", 0.5, "根据 EV 与 PV 判断进度偏差"]]),
+  ...one("KP-EVM-002", "KP-104", "压缩工期前先识别关键路径"),
+  ...one("KP-EVM-003", "KP-071", "资源平衡可能改变关键路径和工期"),
+  ...one("KP-EVM-004", "KP-090", "按成本效率持续假设选择 EAC"),
+  ...one("KP-EVM-005", "KP-104", "关键路径由最长路径而非单项活动决定"),
+  ...one("KP-FUT-001", "KP-198", "敏感客户数据必须按批准工具和隐私规则处理"),
+  ...one("KP-FUT-002", "KP-194", "高影响 AI 建议需要有权限的人审查"),
+  ...one("KP-FUT-003", "KP-197", "群体错误率差异属于算法偏差风险"),
+  ...one("KP-FUT-004", "KP-203", "材料决策应采用全生命周期思维"),
+  ...one("KP-FUT-005", "KP-206", "碳声明需要边界、基线和数据来源"),
+  ...one("CH-PEO-001", "KP-041", "虚拟团队需调整沟通对象、渠道和节奏"),
+  ...one("CH-PEO-002", "KP-016", "有合理数据的优先级冲突宜合作解决"),
+  ...one("CH-PEO-003", "KP-023", "按能力和意愿调整领导方式"),
+  ...one("CH-PEO-004", "KP-035", "先显化并对齐成功期望"),
+  ...one("CH-PEO-005", "KP-038", "关键隐性知识需完成可验证转移"),
+  ...one("CH-PEO-006", "KP-025", "回顾需要心理安全而非公开追责"),
+  ...one("CH-PRO-001", "KP-061", "技术核实不替代客户正式验收"),
+  ...one("CH-PRO-002", "KP-104", "零浮动关键路径活动直接影响工期"),
+  ...one("CH-PRO-003", "KP-113", "单一产出指标会被游戏化并损害质量"),
+  ...one("CH-PRO-004", "KP-205", "采购决策需纳入交付与劳工风险"),
+  ...one("CH-PRO-005", "KP-081", "已识别风险使用应急储备"),
+  ...one("CH-PRO-006", "KP-186", "Spike 应限时并以降低不确定性为目标"),
+  ...one("CH-BE-001", "KP-127", "强制法规变化构成立即合规行动"),
+  ...one("CH-BE-002", "KP-163", "商业价值变化应重新评估战略一致性"),
+  ...one("CH-BE-003", "KP-125", "超过权限阈值应走既定升级路径"),
+  ...one("CH-BE-004", "KP-157", "反复问题需要根因分析"),
+  ...one("CH-BE-005", "KP-161", "组织流程上线后仍需促进和度量采用"),
+  ...one("CH-BE-006", "KP-142", "风险登记册责任人和状态必须持续有效"),
+  ...one("MOCK-A-001", "KP-189", "混合团队需整体分析接口依赖"),
+  ...one("MOCK-A-002", "KP-127", "客户价值不能绕过强制安全合规"),
+  ...one("MOCK-A-003", "KP-113", "速度上升不能替代 Sprint Goal 等有效指标"),
+  ...one("MOCK-A-004", "KP-126", "应诚实披露预测而非隐瞒超支"),
+  ...one("MOCK-A-005", "KP-120", "未决索赔完成前不能关闭采购"),
+  ...one("MOCK-A-006", "KP-195", "AI 预测必须验证并明确为预测"),
+  ...one("MOCK-A-007", "KP-031", "干系人权力和兴趣分类需持续更新"),
+  ...one("MOCK-A-008", "KP-163", "收益不再成立时应重新审查战略一致性"),
+  ...one("MOCK-A-009", "KP-099", "控制界限内的非随机模式仍需调查"),
+  ...many("MOCK-A-010", [["KP-165", "primary", 0.7, "PO 负责价值排序"], ["KP-121", "secondary", 0.3, "监管要求形成治理边界"]]),
+  ...one("MOCK-A-011", "KP-119", "关闭前应验证运营移交准备度"),
+  ...one("MOCK-A-012", "KP-205", "可持续采购不能只优化单一指标"),
+  ...one("MOCK-A-013", "KP-124", "互相矛盾的成功指标必须及时澄清"),
+  ...one("MOCK-A-014", "KP-167", "Developers 应围绕 Sprint Goal 透明调整计划"),
+  ...one("MOCK-A-015", "KP-144", "定性分析不能只看概率而忽略严重影响"),
+];
+
+export const caseMappings: Mapping[] = [
+  ...many("CASE-PRED-01", [["KP-134", "primary", 0.6, "正式变更需受控审查和实施"], ["KP-133", "secondary", 0.4, "需分析范围进度成本安全影响"]]),
+  ...many("CASE-PRED-02", [["KP-104", "primary", 0.5, "先确认关键路径影响"], ["KP-106", "secondary", 0.25, "比较赶工成本"], ["KP-107", "secondary", 0.25, "比较快速跟进风险"]]),
+  ...one("CASE-PRED-03", "KP-074", "固定总价合同下成本风险及变更处理"),
+  ...many("CASE-PRED-04", [["KP-118", "primary", 0.4, "尚未取得正式验收"], ["KP-119", "secondary", 0.35, "运营尚未准备接管"], ["KP-120", "secondary", 0.25, "收尾条件尚未满足"]]),
+  ...one("CASE-PRED-05", "KP-127", "立即生效的安全法规属于强制合规"),
+  ...one("CASE-AGILE-01", "KP-136", "Sprint 中新需求进入未来 Backlog 排序"),
+  ...many("CASE-AGILE-02", [["KP-175", "primary", 0.6, "Daily Scrum 用于 Developers 检查目标并调整计划"], ["KP-022", "secondary", 0.4, "领导者应移除障碍并促进自组织"]]),
+  ...one("CASE-AGILE-03", "KP-171", "不能为提高速度而降低 DoD"),
+  ...one("CASE-AGILE-04", "KP-182", "WIP 上限用于暴露瓶颈并改善流动"),
+  ...many("CASE-AGILE-05", [["KP-176", "primary", 0.5, "Review 与干系人检查产品和环境"], ["KP-177", "secondary", 0.5, "Retro 用于团队过程改进"]]),
+  ...one("CASE-HYB-01", "KP-187", "固定施工与迭代界面需要统一混合治理"),
+  ...one("CASE-HYB-02", "KP-188", "固定阶段门下使用敏捷交付探索需求"),
+  ...one("CASE-HYB-03", "KP-189", "不同交付方法间必须管理接口依赖"),
+  ...one("CASE-HYB-04", "KP-192", "近期详细远期高层是滚动式规划"),
+  ...one("CASE-HYB-05", "KP-127", "敏捷方法不豁免隐私合规记录"),
+  ...many("CASE-FUT-01", [["KP-196", "primary", 0.6, "跨国家数据代表性与质量需验证"], ["KP-195", "secondary", 0.4, "模型预测必须交叉验证"]]),
+  ...many("CASE-FUT-02", [["KP-197", "primary", 0.6, "遗漏无障碍用户体现群体偏差"], ["KP-195", "secondary", 0.4, "生成摘要必须验证"]]),
+  ...one("CASE-FUT-03", "KP-203", "比较材料全生命周期成本与排放"),
+  ...one("CASE-FUT-04", "KP-205", "采购需纳入供应链劳工风险"),
+  ...one("CASE-FUT-05", "KP-194", "AI 不应替代有权限的人批准变更"),
+];
